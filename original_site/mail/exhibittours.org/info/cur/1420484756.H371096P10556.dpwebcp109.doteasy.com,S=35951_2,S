@@ -1,0 +1,637 @@
+Return-path: <bounces+11348-6b40-info=exhibittours.org@e2.kickstarter.com>
+Envelope-to: info@exhibittours.org
+Delivery-date: Mon, 05 Jan 2015 11:05:56 -0800
+Received: from o2.e2.kickstarter.com ([74.63.202.49]:46790)
+	by dpwebcp109.doteasy.com with esmtps (TLSv1:DHE-RSA-AES128-SHA:128)
+	(Exim 4.84)
+	(envelope-from <bounces+11348-6b40-info=exhibittours.org@e2.kickstarter.com>)
+	id 1Y8CyM-0002k0-Uq
+	for info@exhibittours.org; Mon, 05 Jan 2015 11:05:56 -0800
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=e2.kickstarter.com; 
+	h=content-type:mime-version:from:to:reply-to:subject:list-unsubscribe; 
+	s=smtpapi; bh=uuWVDxeFyaMvRoFP9pDI58nrtos=; b=ndjZ4VHO8AHbmwmlU3
+	vzbYNcuUEHs7vpLU8+oaNRYCa1wqZYcgTTbQIxVHtNa0yu2/arTCU5ial/vZG202
+	mmHPOkSMehvcsJtJMVoe2nu8dWIrYLI2I0rNAPklCjBfgY2145N5LYwzwO9p6I/a
+	HV7SwMb3gbiA4wKTKkgDB430g=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=kickstarter.com; 
+	h=content-type:mime-version:from:to:reply-to:subject:list-unsubscribe; 
+	q=dns; s=smtpapi; b=PTviCoUZ9V7US50Rm3fvIz1uxjqp0vBPzuHb4YWOP1sT
+	OzjeioKH+h+B2rWahpw7L1waMCbrrrwvHoLT552sktjwk8pQYl62M0Q+BapTmKcf
+	iMZ+2gyf5N6aY0QrIG8TlYt7MV/vgYpL1LI7/Z3KjXWytUb+08QpjRHX2pOr8wc=
+Received: by filter-331.sjc1.sendgrid.net with SMTP id filter-331.17513.54AAE0851B
+        2015-01-05 19:05:42.125193367 +0000 UTC
+Received: from MTEzNDg (unknown [10.42.83.122])
+	by ismtpd-047 (SG) with HTTP id 14abb7d0be2.d8c.566b
+	for <no-reply@kickstarter.com>; Mon, 05 Jan 2015 19:05:42 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============5106445408038287856=="
+MIME-Version: 1.0
+From: Kickstarter <no-reply@kickstarter.com>
+To: info@ExhibitTours.org
+Reply-to: no-reply@kickstarter.com
+Subject: An Incredible Year for Creativity
+Message-ID: <14abb7d0be2.d8c.566b@ismtpd-047>
+Date: Mon, 05 Jan 2015 19:05:42 +0000 (UTC)
+List-Unsubscribe: <http://e2.kickstarter.com/mpss/u/pAA/VCw/t.1jf/SrNXopRORaea3w4kuP5G8g/um5>, <mailto:unsubscribe@e2.kickstarter.com?subject=http://e2.kickstarter.com/mpss/u/pAA/VCw/t.1jf/SrNXopRORaea3w4kuP5G8g/um5>
+X-SG-EID: BzJILlFxP7QYwqoLg0JwmQH8IUz8baJCaDnrQNXsDembw2s6f88FKHe9bbfTbk3EcZtDuBsR+LPitK
+ zAh8PM67/dAiCxzFRarz0I3dnHh71vj8hFOt8Ws4TJ/OpcvFzHNmFJ8vzI8MY/yyVxYMGhKwUQfjDL
+ erlA5VrMOLTWoSQ=
+X-SG-ID: VPWZYjw6GOzHdwkwPeoX9QiEbzQXX/gF9P8njHP5+LAME0SJEtddWv4vB4d9PeCRCyZd9DR89DkOvK
+ EGEwh5Q9EHeS9xalTNih0ZSUnhk+dqsk86MYjuYmd/s86C6AzgCden6PZxjcl7c86fHVGeNxYcPe1t
+ UUdAdzfm2TOC+soBCc4aIxWKmCkvMkxb/DKXX/XqSvSX+I1+ImAO4J2q/w==
+
+--===============5106445408038287856==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+2014 was an incredible year for creativity, with millions of people joining=
+ together to create more great new things than ever before. You might even =
+say we=E2=80=99re at the dawn of a new creative golden age.
+
+If you have a second, join us for a quick look back at some of the amazing =
+things the Kickstarter community made happen in 2014.
+                                                                           =
+             Kickstarter
+                                                                           =
+                   Explore the Year in Kickstarter
+
+https://www.kickstarter.com/year/2014?ref=3Dyir2014_email=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20
+
+Don't want to receive emails about News & Events? That's okay, you can unsu=
+bscribe ( http://e2.kickstarter.com/mpss/u/pAA/VCw/t.1jf/SrNXopRORaea3w4kuP=
+5G8g/ut3 ).=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+Kickstarter =C2=B7 58 Kent St, Brooklyn NY, 11222=C2=B7 www.kickstarter.com=
+ ( http://kickstarter.com )
+---------------------------------------------------------------------------=
+-----------------=
+
+--===============5106445408038287856==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns=3D"http://www.w3.org/199=
+9/xhtml" style=3D"border: 0px; color: #0f2105; font-family: 'Helvetica Neue=
+', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px">
+<head>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width" />
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+<title>An Incredible Year for Creativity</title>
+
+</head>
+
+<body style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; =
+border: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', He=
+lvetica, Arial, sans-serif; font-size: 16px; font-weight: normal; line-heig=
+ht: 24px; margin: 0; padding: 0; width: 100% !important"><style type=3D"tex=
+t/css">
+body {
+width: 100% !important; -webkit-text-size-adjust: 100%; -ms-text-size-adjus=
+t: 100%; margin: 0; padding: 0;
+}
+img {
+outline: none; text-decoration: none; width: auto; max-width: 100%;
+}
+body {
+font-size: 16px; font-weight: normal; line-height: 24px;
+}
+@media only screen and (max-width: 499px) {
+  .container {
+    padding-left: 10px !important; padding-right: 10px !important; width: 9=
+5% !important;
+  }
+}
+</style>
+<style type=3D"text/css" data-premailer=3D"ignore" style=3D"border: 0px; co=
+lor: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial,=
+ sans-serif; margin: 0px; padding: 0px">
+  a {
+    // Aggresively attacking all iOS insterted links. For normal link behav=
+ior please use .link-blue
+    color: #0F2105;
+    text-decoration: none;
+  }
+</style>
+
+
+
+<table class=3D"body" style=3D"-premailer-cellpadding: 0; -premailer-cellsp=
+acing: 0; -premailer-height: auto; -premailer-width: 100%; border-collapse:=
+ collapse; border-spacing: 0; border: 0px; color: #0f2105; font-family: 'He=
+lvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; height: 100%; mar=
+gin: 0px; padding: 0px; text-align: left; vertical-align: top; width: 100%"=
+ width=3D"100%" height=3D"auto" cellpadding=3D"0" cellspacing=3D"0">
+  <tr style=3D"border: 0px; color: #0f2105; font-family: 'Helvetica Neue', =
+'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; text-=
+align: left; vertical-align: top" align=3D"left">
+    <td class=3D"center email-wrap" style=3D"border-collapse: collapse !imp=
+ortant; border: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvet=
+ica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; text-align: =
+center; vertical-align: top" align=3D"center" valign=3D"top">
+      <center style=3D"border: 0px; color: #0f2105; font-family: 'Helvetica=
+ Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0p=
+x; width: 100%">
+
+=20=20=20=20=20=20=20=20
+        <table class=3D"section bg-blue-dark" style=3D"-premailer-cellpaddi=
+ng: 0; -premailer-cellspacing: 0; -premailer-height: auto; -premailer-width=
+: 100%; background: #081245 url('https://d3mlfyygrfdi2i.cloudfront.net/1028=
+/yir-2014-email-pattern.png'); border-collapse: collapse; border-spacing: 0=
+; border: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', =
+Helvetica, Arial, sans-serif; height: 100%; margin: 0px; padding: 0px; text=
+-align: left; vertical-align: top; width: 100%" bgcolor=3D"#081245" backgro=
+und=3D"https://d3mlfyygrfdi2i.cloudfront.net/1028/yir-2014-email-pattern.pn=
+g" width=3D"100%" height=3D"auto" cellpadding=3D"0" cellspacing=3D"0">
+          <tr style=3D"border: 0px; color: #0f2105; font-family: 'Helvetica=
+ Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0p=
+x; text-align: left; vertical-align: top" align=3D"left">
+            <td style=3D"border-collapse: collapse !important; border: 0px;=
+ color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Ari=
+al, sans-serif; margin: 0px; padding: 0px; text-align: left; vertical-align=
+: top" align=3D"left" valign=3D"top">
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+              <table class=3D"container" align=3D"center" style=3D"-premail=
+er-cellpadding: 0; -premailer-cellspacing: 0; -premailer-height: auto; -pre=
+mailer-width: 500; border-collapse: collapse; border-spacing: 0; border: 0p=
+x; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, A=
+rial, sans-serif; margin: 0 auto; padding: 0px; text-align: left; vertical-=
+align: top; width: 500px" width=3D"500" height=3D"auto" cellpadding=3D"0" c=
+ellspacing=3D"0">
+                <tr style=3D"border: 0px; color: #0f2105; font-family: 'Hel=
+vetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; paddi=
+ng: 0px; text-align: left; vertical-align: top" align=3D"left">
+                  <td style=3D"border-collapse: collapse !important; border=
+: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helvetic=
+a, Arial, sans-serif; margin: 0px; padding: 0px; text-align: left; vertical=
+-align: top" align=3D"left" valign=3D"top">
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    <table style=3D"-premailer-cellpadding: 0; -premailer-c=
+ellspacing: 0; -premailer-height: auto; -premailer-width: 100%; border-coll=
+apse: collapse; border-spacing: 0; border: 0px; color: #0f2105; font-family=
+: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px;=
+ padding: 0px; text-align: left; vertical-align: top; width: 100%" width=3D=
+"100%" height=3D"auto" cellpadding=3D"0" cellspacing=3D"0">
+                      <tr style=3D"border: 0px; color: #0f2105; font-family=
+: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px;=
+ padding: 0px; text-align: left; vertical-align: top" align=3D"left">
+                        <td colspan=3D"3" class=3D"note bg-blue-dark" style=
+=3D"background: #081245; border-collapse: collapse !important; border-radiu=
+s: 6px; border: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvet=
+ica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px 0px 40px; tex=
+t-align: left; vertical-align: top" align=3D"left" bgcolor=3D"#081245" vali=
+gn=3D"top">
+                          <table style=3D"-premailer-cellpadding: 0; -prema=
+iler-cellspacing: 0; -premailer-height: auto; -premailer-width: 100%; borde=
+r-collapse: collapse; border-spacing: 0; border: 0px; color: #0f2105; font-=
+family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin=
+: 0px; padding: 0px; text-align: left; vertical-align: top; width: 100%" wi=
+dth=3D"100%" height=3D"auto" cellpadding=3D"0" cellspacing=3D"0">
+                            <tr style=3D"border: 0px; color: #0f2105; font-=
+family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin=
+: 0px; padding: 0px; text-align: left; vertical-align: top" align=3D"left">
+                              <td style=3D"border-collapse: collapse !impor=
+tant; border: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetic=
+a', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; text-align: le=
+ft; vertical-align: top" align=3D"left" valign=3D"top">
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+
+
+
+<table style=3D"-premailer-cellpadding: 0; -premailer-cellspacing: 0; -prem=
+ailer-height: auto; -premailer-width: 100%; border-collapse: collapse; bord=
+er-spacing: 0; border: 0px; color: #0f2105; font-family: 'Helvetica Neue', =
+'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; text-=
+align: left; vertical-align: top; width: 100%" width=3D"100%" height=3D"aut=
+o" cellpadding=3D"0" cellspacing=3D"0">
+  <tr style=3D"border: 0px; color: #0f2105; font-family: 'Helvetica Neue', =
+'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; text-=
+align: left; vertical-align: top" align=3D"left">
+    <td class=3D"padding" style=3D"border-collapse: collapse !important; bo=
+rder: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; margin: 0px; padding: 0px; text-align: left; vert=
+ical-align: top; width: 30px" align=3D"left" valign=3D"top"></td>
+    <td class=3D"content center" style=3D"border-collapse: collapse !import=
+ant; border: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica=
+', Helvetica, Arial, sans-serif; margin: 0 auto; padding: 40px 0px 0px; tex=
+t-align: center; vertical-align: top" align=3D"center" valign=3D"top">
+      <a href=3D"http://e2.kickstarter.com/mpss/c/pAA/VCw/t.1jf/SrNXopRORae=
+a3w4kuP5G8g/h0/Kvh8eyEDYxccobuZZtapCd5ujoad2V2Jj9V4DNmGJxf-2FLysyEO4-2Fk288=
+RIg92HZ7Z-2FhrQlxSW4105IlxcHI9OA-3D-3D" style=3D"border: 0px; color: #0F210=
+5; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif=
+; margin: 0px; padding: 0px; text-decoration: none">
+        <img src=3D"https://d3mlfyygrfdi2i.cloudfront.net/fd0f/this-year-in=
+-kickstarter-lockup.png" alt=3D"The year in Kickstarter - 2014" width=3D"30=
+0" style=3D"border: 0px none; color: #0f2105; font-family: 'Helvetica Neue'=
+, 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; max-width: 100%; =
+outline: none; padding: 0px; text-decoration: none; width: 300px" />
+      </a>
+    </td>
+    <td class=3D"padding" style=3D"border-collapse: collapse !important; bo=
+rder: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; margin: 0px; padding: 0px; text-align: left; vert=
+ical-align: top; width: 30px" align=3D"left" valign=3D"top"></td>
+  </tr>
+</table>
+
+
+
+
+<table style=3D"-premailer-cellpadding: 0; -premailer-cellspacing: 0; -prem=
+ailer-height: auto; -premailer-width: 100%; border-collapse: collapse; bord=
+er-spacing: 0; border: 0px; color: #0f2105; font-family: 'Helvetica Neue', =
+'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; text-=
+align: left; vertical-align: top; width: 100%" width=3D"100%" height=3D"aut=
+o" cellpadding=3D"0" cellspacing=3D"0">
+  <tr style=3D"border: 0px; color: #0f2105; font-family: 'Helvetica Neue', =
+'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; text-=
+align: left; vertical-align: top" align=3D"left">
+    <td class=3D"padding" style=3D"border-collapse: collapse !important; bo=
+rder: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; margin: 0px; padding: 0px; text-align: left; vert=
+ical-align: top; width: 30px" align=3D"left" valign=3D"top"></td>
+    <td class=3D"content" style=3D"border-collapse: collapse !important; bo=
+rder: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; margin: 0 auto; padding: 40px 0px 0px; text-align=
+: left; vertical-align: top" align=3D"left" valign=3D"top">
+      <p class=3D"white" style=3D"border: 0px; color: white; font-family: '=
+Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; font-size: 16px=
+; font-style: normal; font-weight: normal; line-height: 24px; margin: 0px; =
+padding: 0px">2014 was an incredible year for creativity, with millions of =
+people joining together to create more great new things than ever before. Y=
+ou might even say we=E2=80=99re at the dawn of a new creative golden age.</=
+p>
+      <p class=3D"white half-padding-top" style=3D"border: 0px; color: whit=
+e; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif=
+; font-size: 16px; font-style: normal; font-weight: normal; line-height: 24=
+px; margin: 0px; padding: 20px 0px 0px">If you have a second, join us for a=
+ quick look back at some of the amazing things the Kickstarter community ma=
+de happen in 2014.</p>
+    </td>
+    <td class=3D"padding" style=3D"border-collapse: collapse !important; bo=
+rder: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; margin: 0px; padding: 0px; text-align: left; vert=
+ical-align: top; width: 30px" align=3D"left" valign=3D"top"></td>
+  </tr>
+</table>
+
+
+
+<table style=3D"-premailer-cellpadding: 0; -premailer-cellspacing: 0; -prem=
+ailer-height: auto; -premailer-width: 100%; border-collapse: collapse; bord=
+er-spacing: 0; border: 0px; color: #0f2105; font-family: 'Helvetica Neue', =
+'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; text-=
+align: left; vertical-align: top; width: 100%" width=3D"100%" height=3D"aut=
+o" cellpadding=3D"0" cellspacing=3D"0">
+  <tr style=3D"border: 0px; color: #0f2105; font-family: 'Helvetica Neue', =
+'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; text-=
+align: left; vertical-align: top" align=3D"left">
+    <td class=3D"padding" style=3D"border-collapse: collapse !important; bo=
+rder: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; margin: 0px; padding: 0px; text-align: left; vert=
+ical-align: top; width: 30px" align=3D"left" valign=3D"top"></td>
+    <td class=3D"content" style=3D"border-collapse: collapse !important; bo=
+rder: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; margin: 0 auto; padding: 40px 0px 0px; text-align=
+: left; vertical-align: top" align=3D"left" valign=3D"top">
+      <table style=3D"-premailer-cellpadding: 0; -premailer-cellspacing: 0;=
+ -premailer-height: auto; -premailer-width: 100%; border-collapse: collapse=
+; border-spacing: 0; border: 0px; color: #0f2105; font-family: 'Helvetica N=
+eue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px;=
+ text-align: left; vertical-align: top; width: 100%" width=3D"100%" height=
+=3D"auto" cellpadding=3D"0" cellspacing=3D"0">
+        <tr style=3D"border: 0px; color: #0f2105; font-family: 'Helvetica N=
+eue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px;=
+ text-align: left; vertical-align: top" align=3D"left">
+          <td style=3D"border-collapse: collapse !important; border: 0px; c=
+olor: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial=
+, sans-serif; margin: 0px; padding: 0px; text-align: left; vertical-align: =
+middle; width: 17px" width=3D"17" class=3D"v-align-middle" align=3D"left" v=
+align=3D"middle">
+            <img src=3D"https://d3mlfyygrfdi2i.cloudfront.net/18fb/icon-hea=
+rt2x.png" alt=3D"&lt;3" style=3D"border: 0; color: #0f2105; font-size: norm=
+al; font-style: normal; font-variant: normal; font-weight: normal; height: =
+16px; line-height: normal; margin: 0 5px 0 0; max-width: 100%; outline: non=
+e; padding: 0; text-decoration: none; vertical-align: sub; width: 17px" hei=
+ght=3D"16" width=3D"17" />
+          </td>
+          <td class=3D"v-align-middle" style=3D"border-collapse: collapse !=
+important; border: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Hel=
+vetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; text-alig=
+n: left; vertical-align: middle" align=3D"left" valign=3D"middle">
+            <p class=3D"bold love-kickstarter white" style=3D"border: 0px; =
+color: white; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial,=
+ sans-serif; font-size: 16px; font-style: normal; font-weight: bold; line-h=
+eight: 24px; margin: 0px; padding: 0px 0px 0px 5px">Kickstarter</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td class=3D"padding" style=3D"border-collapse: collapse !important; bo=
+rder: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; margin: 0px; padding: 0px; text-align: left; vert=
+ical-align: top; width: 30px" align=3D"left" valign=3D"top"></td>
+  </tr>
+</table>
+
+
+
+
+<table style=3D"-premailer-cellpadding: 0; -premailer-cellspacing: 0; -prem=
+ailer-height: auto; -premailer-width: 100%; border-collapse: collapse; bord=
+er-spacing: 0; border: 0px; color: #0f2105; font-family: 'Helvetica Neue', =
+'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; text-=
+align: left; vertical-align: top; width: 100%" width=3D"100%" height=3D"aut=
+o" cellpadding=3D"0" cellspacing=3D"0">
+  <tr style=3D"border: 0px; color: #0f2105; font-family: 'Helvetica Neue', =
+'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; text-=
+align: left; vertical-align: top" align=3D"left">
+    <td class=3D"padding" style=3D"border-collapse: collapse !important; bo=
+rder: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; margin: 0px; padding: 0px; text-align: left; vert=
+ical-align: top; width: 30px" align=3D"left" valign=3D"top"></td>
+    <td class=3D"content" style=3D"border-collapse: collapse !important; bo=
+rder: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; margin: 0 auto; padding: 40px 0px 0px; text-align=
+: left; vertical-align: top" align=3D"left" valign=3D"top">
+      <table class=3D"button button--green button--center" style=3D"-premai=
+ler-cellpadding: 0; -premailer-cellspacing: 0; -premailer-height: auto; -pr=
+emailer-width: 100%; background: #2cdd73; border-collapse: collapse; border=
+-radius: 4px; border-spacing: 0; border: 0px; color: white; font-family: 'H=
+elvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px auto=
+; padding: 0px; text-align: left; vertical-align: top; width: auto !importa=
+nt" bgcolor=3D"#2cdd73" width=3D"100%" height=3D"auto" cellpadding=3D"0" ce=
+llspacing=3D"0">
+        <tr style=3D"border: 0px; color: #0f2105; font-family: 'Helvetica N=
+eue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px;=
+ text-align: left; vertical-align: top" align=3D"left">
+          <td style=3D"border-collapse: collapse !important; border: 0px; c=
+olor: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial=
+, sans-serif; font-weight: bold; margin: 0px; padding: 20px; text-align: ce=
+nter; vertical-align: top" align=3D"center" valign=3D"top">
+            <a href=3D"http://e2.kickstarter.com/mpss/c/pAA/VCw/t.1jf/SrNXo=
+pRORaea3w4kuP5G8g/h1/Kvh8eyEDYxccobuZZtapCd5ujoad2V2Jj9V4DNmGJxf-2FLysyEO4-=
+2Fk288RIg92HZ7Z-2FhrQlxSW4105IlxcHI9OA-3D-3D" style=3D"border: 0px #2cdd73;=
+ color: white; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial=
+, sans-serif; font-weight: bold; margin: 0px; padding: 0px; text-decoration=
+: none">
+              Explore the Year in Kickstarter
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td class=3D"padding" style=3D"border-collapse: collapse !important; bo=
+rder: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helv=
+etica, Arial, sans-serif; margin: 0px; padding: 0px; text-align: left; vert=
+ical-align: top; width: 30px" align=3D"left" valign=3D"top"></td>
+  </tr>
+</table>
+
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20
+
+
+                              </td>
+                            </tr>
+                          </table>
+                        </td>
+                      </tr>
+                    </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+
+                  </td>
+                </tr>
+              </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+            </td>
+          </tr>
+        </table>
+=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20
+        <table class=3D"section bg-grey-light" style=3D"-premailer-cellpadd=
+ing: 0; -premailer-cellspacing: 0; -premailer-height: auto; -premailer-widt=
+h: 100%; background: #f3f3f3; border-collapse: collapse; border-spacing: 0;=
+ border: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', H=
+elvetica, Arial, sans-serif; height: 100%; margin: 0px; padding: 0px; text-=
+align: left; vertical-align: top; width: 100%" bgcolor=3D"#f3f3f3" width=3D=
+"100%" height=3D"auto" cellpadding=3D"0" cellspacing=3D"0">
+          <tr style=3D"border: 0px; color: #0f2105; font-family: 'Helvetica=
+ Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0p=
+x; text-align: left; vertical-align: top" align=3D"left">
+            <td style=3D"border-collapse: collapse !important; border: 0px;=
+ color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Ari=
+al, sans-serif; margin: 0px; padding: 0px; text-align: left; vertical-align=
+: top" align=3D"left" valign=3D"top">
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+              <table class=3D"container" align=3D"center" style=3D"-premail=
+er-cellpadding: 0; -premailer-cellspacing: 0; -premailer-height: auto; -pre=
+mailer-width: 500; border-collapse: collapse; border-spacing: 0; border: 0p=
+x; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, A=
+rial, sans-serif; margin: 0 auto; padding: 0px; text-align: left; vertical-=
+align: top; width: 500px" width=3D"500" height=3D"auto" cellpadding=3D"0" c=
+ellspacing=3D"0">
+                <tr style=3D"border: 0px; color: #0f2105; font-family: 'Hel=
+vetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; paddi=
+ng: 0px; text-align: left; vertical-align: top" align=3D"left">
+                  <td style=3D"border-collapse: collapse !important; border=
+: 0px; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helvetic=
+a, Arial, sans-serif; margin: 0px; padding: 0px; text-align: left; vertical=
+-align: top" align=3D"left" valign=3D"top">
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    <table style=3D"-premailer-cellpadding: 0; -premailer-c=
+ellspacing: 0; -premailer-height: auto; -premailer-width: 100%; border-coll=
+apse: collapse; border-spacing: 0; border: 0px; color: #0f2105; font-family=
+: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px;=
+ padding: 0px; text-align: left; vertical-align: top; width: 100%" width=3D=
+"100%" height=3D"auto" cellpadding=3D"0" cellspacing=3D"0">
+                      <tr style=3D"border: 0px; color: #0f2105; font-family=
+: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px;=
+ padding: 0px; text-align: left; vertical-align: top" align=3D"left">
+                        <td class=3D"padding" style=3D"border-collapse: col=
+lapse !important; border: 0px; color: #0f2105; font-family: 'Helvetica Neue=
+', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; te=
+xt-align: left; vertical-align: top; width: 30px" align=3D"left" valign=3D"=
+top"></td>
+                        <td class=3D"content" style=3D"border-collapse: col=
+lapse !important; border: 0px; color: #0f2105; font-family: 'Helvetica Neue=
+', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0 auto; padding: 40px=
+ 0px 0px; text-align: left; vertical-align: top" align=3D"left" valign=3D"t=
+op">
+                          <h5 class=3D"h6" style=3D"border: 0px; color: #0f=
+2105; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-se=
+rif; font-size: 12px; font-style: normal; font-weight: normal; line-height:=
+ 16px; margin: 0px; padding: 0px"> Don't want to receive emails about News =
+&amp; Events? That's okay, you can <a href=3D"http://e2.kickstarter.com/mps=
+s/u/pAA/VCw/t.1jf/SrNXopRORaea3w4kuP5G8g/uh4" class=3D"link-blue" style=3D"=
+border: 0px; color: #00a0ff; font-family: 'Helvetica Neue', 'Helvetica', He=
+lvetica, Arial, sans-serif; margin: 0px; padding: 0px; text-decoration: non=
+e">unsubscribe</a>.
+                        </h5></td>
+                        <td class=3D"padding" style=3D"border-collapse: col=
+lapse !important; border: 0px; color: #0f2105; font-family: 'Helvetica Neue=
+', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; te=
+xt-align: left; vertical-align: top; width: 30px" align=3D"left" valign=3D"=
+top"></td>
+                      </tr>
+                    </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    <table style=3D"-premailer-cellpadding: 0; -premailer-c=
+ellspacing: 0; -premailer-height: auto; -premailer-width: 100%; border-coll=
+apse: collapse; border-spacing: 0; border: 0px; color: #0f2105; font-family=
+: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px;=
+ padding: 0px; text-align: left; vertical-align: top; width: 100%" width=3D=
+"100%" height=3D"auto" cellpadding=3D"0" cellspacing=3D"0">
+                      <tr style=3D"border: 0px; color: #0f2105; font-family=
+: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px;=
+ padding: 0px; text-align: left; vertical-align: top" align=3D"left">
+                        <td class=3D"content half-padding-top" colspan=3D"3=
+" style=3D"border-collapse: collapse !important; border: 0px; color: #0f210=
+5; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif=
+; margin: 0 auto; padding: 20px 0px 0px; text-align: left; vertical-align: =
+top" align=3D"left" valign=3D"top">
+                          <hr style=3D"background: #d9d9de; border: 0px non=
+e; color: #0f2105; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, A=
+rial, sans-serif; height: 1px; margin: 0px; padding: 0px; width: 100%" />
+                        </td>
+                      </tr>
+                    </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    <table style=3D"-premailer-cellpadding: 0; -premailer-c=
+ellspacing: 0; -premailer-height: auto; -premailer-width: 100%; border-coll=
+apse: collapse; border-spacing: 0; border: 0px; color: #0f2105; font-family=
+: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px;=
+ padding: 0px; text-align: left; vertical-align: top; width: 100%" width=3D=
+"100%" height=3D"auto" cellpadding=3D"0" cellspacing=3D"0">
+                      <tr style=3D"border: 0px; color: #0f2105; font-family=
+: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px;=
+ padding: 0px; text-align: left; vertical-align: top" align=3D"left">
+                        <td class=3D"padding" style=3D"border-collapse: col=
+lapse !important; border: 0px; color: #0f2105; font-family: 'Helvetica Neue=
+', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; te=
+xt-align: left; vertical-align: top; width: 30px" align=3D"left" valign=3D"=
+top"></td>
+                        <td class=3D"content half-padding-top" style=3D"bor=
+der-collapse: collapse !important; border: 0px; color: #0f2105; font-family=
+: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0 au=
+to; padding: 20px 0px 0px; text-align: left; vertical-align: top" align=3D"=
+left" valign=3D"top">
+                          <h5 class=3D"h6" style=3D"border: 0px; color: #0f=
+2105; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-se=
+rif; font-size: 12px; font-style: normal; font-weight: normal; line-height:=
+ 16px; margin: 0px; padding: 0px">Kickstarter =C2=B7 58 Kent St, Brooklyn N=
+Y, 11222=C2=B7 <a href=3D"http://e2.kickstarter.com/mpss/c/pAA/VCw/t.1jf/Sr=
+NXopRORaea3w4kuP5G8g/h2/fq6ETgvJIrfRAJX2rNf-2F2XMper7sTWACgAARpv-2B3qVI-3D"=
+ class=3D"underline" style=3D"border: 0px; color: #0F2105; font-family: 'He=
+lvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padd=
+ing: 0px; text-decoration: underline">www.kickstarter.com</a></h5>
+                        </td>
+                        <td class=3D"padding" style=3D"border-collapse: col=
+lapse !important; border: 0px; color: #0f2105; font-family: 'Helvetica Neue=
+', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px; padding: 0px; te=
+xt-align: left; vertical-align: top; width: 30px" align=3D"left" valign=3D"=
+top"></td>
+                      </tr>
+                    </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                    <table style=3D"-premailer-cellpadding: 0; -premailer-c=
+ellspacing: 0; -premailer-height: auto; -premailer-width: 100%; border-coll=
+apse: collapse; border-spacing: 0; border: 0px; color: #0f2105; font-family=
+: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px;=
+ padding: 0px; text-align: left; vertical-align: top; width: 100%" width=3D=
+"100%" height=3D"auto" cellpadding=3D"0" cellspacing=3D"0">
+                      <tr style=3D"border: 0px; color: #0f2105; font-family=
+: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; margin: 0px;=
+ padding: 0px; text-align: left; vertical-align: top" align=3D"left">
+                        <td colspan=3D"3" class=3D"spacer" style=3D"border-=
+collapse: collapse !important; border: 0px; color: #0f2105; font-family: 'H=
+elvetica Neue', 'Helvetica', Helvetica, Arial, sans-serif; height: 40px; ma=
+rgin: 0px; padding: 0px; text-align: left; vertical-align: top" align=3D"le=
+ft" valign=3D"top">
+                          =C2=A0
+                        </td>
+                      </tr>
+                    </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+                  </td>
+                </tr>
+              </table>
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+
+            </td>
+          </tr>
+        </table>
+=20=20=20=20=20=20=20=20
+
+      </center>
+    </td>
+  </tr>
+</table>
+
+
+
+<img src=3D"http://e2.kickstarter.com/mpss/o/pAA/VCw/t.1jf/SrNXopRORaea3w4k=
+uP5G8g/o.gif" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"heigh=
+t:1px !important;width:1px !important;border-width:0 !important;margin-top:=
+0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-le=
+ft:0 !important;padding-top:0 !important;padding-bottom:0 !important;paddin=
+g-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+
+--===============5106445408038287856==--

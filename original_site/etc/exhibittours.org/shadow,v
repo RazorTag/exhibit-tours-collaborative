@@ -1,0 +1,84 @@
+head	1.5;
+access;
+symbols;
+locks
+	mrperfek:1.5; strict;
+comment	@# @;
+
+
+1.5
+date	2014.11.26.20.02.17;	author mrperfek;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	2014.11.26.20.00.27;	author mrperfek;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	2014.11.26.19.59.51;	author mrperfek;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	2014.11.26.19.59.09;	author mrperfek;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	2014.11.26.19.59.09;	author mrperfek;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.5
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@museum:$1$dE0UF3jo$tUYCwUugie/3MK5yIENa21:16400::::::
+collections:$1$gT4AfBAN$HOoNDmZnpIR5A.gEQZJNa0:16400::::::
+donors:$1$PY.iM45B$x5yeWYsI/LyS87a3YiVQ8/:16400::::::
+info:$1$x5zcMJbt$LkEMRPtVlrrFcf.9kh8yw1:16400::::::
+@
+
+
+1.4
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d4 1
+@
+
+
+1.3
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d3 1
+@
+
+
+1.2
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d2 1
+@
+
+
+1.1
+log
+@"Modified by /usr/local/cpanel/cpanel "
+@
+text
+@d1 1
+@

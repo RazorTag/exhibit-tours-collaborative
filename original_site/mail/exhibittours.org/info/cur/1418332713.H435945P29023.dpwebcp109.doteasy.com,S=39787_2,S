@@ -1,0 +1,1524 @@
+Return-path: <bounces+11322-cf04-info=exhibittours.org@email.kickstarter.com>
+Envelope-to: info@exhibittours.org
+Delivery-date: Thu, 11 Dec 2014 13:18:33 -0800
+Received: from sg1.email.kickstarter.com ([167.89.20.248]:32829)
+	by dpwebcp109.doteasy.com with esmtps (TLSv1:DHE-RSA-AES128-SHA:128)
+	(Exim 4.82)
+	(envelope-from <bounces+11322-cf04-info=exhibittours.org@email.kickstarter.com>)
+	id 1XzB85-0007Xo-5K
+	for info@exhibittours.org; Thu, 11 Dec 2014 13:18:33 -0800
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=email.kickstarter.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=I6OkxZSUHtVZtrGQDunJvxGnIPA=; b=pRsoqLAH7kRhif8mfC
+	jIOTwidOVk/CjnMyZJV7LZyHDiSjGKAUe+c38mfHACffeYBRF/l+81xs5BcsOTO9
+	v4SmsY40ZDkdqayba3VdK2MiuKEtsmbuLnOa9lEO62VTuZS/sbD18H37J4R0TRtR
+	tAdoJlpgtWuRm3EbxkfYPcCPY=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=kickstarter.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding; 
+	q=dns; s=smtpapi; b=wpsaU4iZ/6AfskdfI+D1KktcstkTFEZV1DRaJxi6PEST
+	og8lqD+FaoZ0pT6LuoDmLWNsLTIP+q87ahfPTJb+cm1mjY0jB6M0QgpOa4w/P2ak
+	LLHgxIwZbp5JkLDwHJoRMQpx78ltJWtfXO4R2rdfoVG/wFR05hWkRCQABx65b+k=
+Received: by filter0095p1mdw1.sendgrid.net with SMTP id filter0095p1mdw1.15333.548A0A221B
+        2014-12-11 21:18:27.324315383 +0000 UTC
+Received: from ip-10-47-131-248.ec2.internal (ec2-54-224-150-135.compute-1.amazonaws.com [54.224.150.135])
+	by ismtpd-033 (SG) with ESMTP id 14a3b3799a0.390c.7d005
+	for <info@ExhibitTours.org>; Thu, 11 Dec 2014 21:18:27 +0000 (UTC)
+Received: from localhost.localdomain (localhost [127.0.0.1])
+	by ip-10-47-131-248.ec2.internal (Postfix) with ESMTP id 2590D580019
+	for <info@ExhibitTours.org>; Thu, 11 Dec 2014 21:18:27 +0000 (UTC)
+Date: Thu, 11 Dec 2014 21:18:25 +0000
+From: Kickstarter <no-reply@kickstarter.com>
+Reply-To: No Reply <no-reply@kickstarter.com>
+To: info@ExhibitTours.org
+Message-ID: <548a0a23a9b5_351e3fc3300073f4154c8@ip-10-47-131-248.mail>
+Subject: =?UTF-8?Q?You=E2=80=99ve_started_a_project_on_Kickstarter!?=
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_548a0a21bb406_351e3fc3300073f4153f9";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SIG: bff6ed7be7244036191a39bf91c18e9c9c15de2c
+X-SG-EID: BzJILlFxP7QYwqoLg0JwmQH8IUz8baJCaDnrQNXsDem4k0VVN5hQxiU+nr6FmbPLmBQ/db82HaGHFg
+ m1zgcOFCxHb1lxE7sVlWU8l/Hei2Vz/Iybue7QeUNiGDd8aPDVlPHmXwKACo/GxfQVUw+PU1U4m5oU
+ o86jInXdzYS6ysE=
+
+----==_mimepart_548a0a21bb406_351e3fc3300073f4153f9
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+-------------------------
+
+You've just joined a community of amazing people committed to bringing new ideas to life. Whether you're a seasoned maker, or trying something for the first time, we're glad that you're here.
+
+A few tips to help you get started:
+
+ Visit our Creator Handbook 
+ Everything you need to know about launching a project, from sharing your story to shipping rewards, it&#39;s all here. (https://www.kickstarter.com/help/handbook?ref=email) Back a project 
+Find one (https://www.kickstarter.com/discover?ref=email) that speaks to you and learn from the journey!  Download the Kickstarter App for iOS 
+Use our app (https://www.kickstarter.com/mobile?ref=email) to send updates, and stay in touch with your backers on-the-go. We can't wait to see what you create!
+
+
+Kickstarter
+
+
+-------------------------
+
+----==_mimepart_548a0a21bb406_351e3fc3300073f4153f9
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type">
+<meta content=3D"width=3Ddevice-width, user-scalable=3Dno, initial-scale=3D=
+1.0, minimum-scale=3D1.0, maximum-scale=3D1.0" name=3D"viewport">
+<title></title>
+
+<style data-premailer=3D"ignore">
+
+</style>
+</head>
+<body style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em; color=
+: #0f2105; display: block; font-family: 'Helvetica Neue', Helvetica, Arial,=
+ 'Liberation Sans', FreeSans, sans-serif; font-size: 16px; height: 100%; ma=
+rgin: 0; padding: 0; width: 100%">
+<style type=3D"text/css">
+@media (min-width: 640px) {
+  .mega {
+    font-size: 60px; line-height: 60px; font-weight: 200;
+  }
+  h1 {
+    font-size: 48px; line-height: 50px;
+  }
+  .h1 {
+    font-size: 48px; line-height: 50px;
+  }
+  h2 {
+    font-size: 32px; line-height: 40px;
+  }
+  .h2 {
+    font-size: 32px; line-height: 40px;
+  }
+  h3 {
+    font-size: 22px; line-height: 30px;
+  }
+  .h3 {
+    font-size: 22px; line-height: 30px;
+  }
+  .light {
+    font-weight: 200;
+  }
+  .col {
+    float: left;
+  }
+  .col-right {
+    float: right;
+  }
+  .col-center {
+    margin-right: auto; margin-left: auto;
+  }
+  .col-1 {
+    width: 8.33333%;
+  }
+  .col-pre-1 {
+    margin-left: 8.33333%;
+  }
+  .col-post-1 {
+    margin-right: 8.33333%;
+  }
+  .col-2 {
+    width: 16.66667%;
+  }
+  .col-pre-2 {
+    margin-left: 16.66667%;
+  }
+  .col-post-2 {
+    margin-right: 16.66667%;
+  }
+  .col-3 {
+    width: 25%;
+  }
+  .col-pre-3 {
+    margin-left: 25%;
+  }
+  .col-post-3 {
+    margin-right: 25%;
+  }
+  .col-4 {
+    width: 33.33333%;
+  }
+  .col-pre-4 {
+    margin-left: 33.33333%;
+  }
+  .col-post-4 {
+    margin-right: 33.33333%;
+  }
+  .col-5 {
+    width: 41.66667%;
+  }
+  .col-pre-5 {
+    margin-left: 41.66667%;
+  }
+  .col-post-5 {
+    margin-right: 41.66667%;
+  }
+  .col-6 {
+    width: 50%;
+  }
+  .col-pre-6 {
+    margin-left: 50%;
+  }
+  .col-post-6 {
+    margin-right: 50%;
+  }
+  .col-7 {
+    width: 58.33333%;
+  }
+  .col-pre-7 {
+    margin-left: 58.33333%;
+  }
+  .col-post-7 {
+    margin-right: 58.33333%;
+  }
+  .col-8 {
+    width: 66.66667%;
+  }
+  .col-pre-8 {
+    margin-left: 66.66667%;
+  }
+  .col-post-8 {
+    margin-right: 66.66667%;
+  }
+  .col-9 {
+    width: 75%;
+  }
+  .col-pre-9 {
+    margin-left: 75%;
+  }
+  .col-post-9 {
+    margin-right: 75%;
+  }
+  .col-10 {
+    width: 83.33333%;
+  }
+  .col-pre-10 {
+    margin-left: 83.33333%;
+  }
+  .col-post-10 {
+    margin-right: 83.33333%;
+  }
+  .col-11 {
+    width: 91.66667%;
+  }
+  .col-pre-11 {
+    margin-left: 91.66667%;
+  }
+  .col-post-11 {
+    margin-right: 91.66667%;
+  }
+  .col-12 {
+    width: 100%;
+  }
+  .col-pre-12 {
+    margin-left: 100%;
+  }
+  .col-post-12 {
+    margin-right: 100%;
+  }
+  .table {
+    display: table; table-layout: fixed; width: 100%;
+  }
+  .table-layout-auto {
+    table-layout: auto;
+  }
+  .table-cell {
+    display: table-cell; vertical-align: middle;
+  }
+  .mega {
+    font-size: 60px; line-height: 60px; font-weight: 200;
+  }
+  h1 {
+    font-size: 48px; line-height: 50px;
+  }
+  .h1 {
+    font-size: 48px; line-height: 50px;
+  }
+  h2 {
+    font-size: 32px; line-height: 40px;
+  }
+  .h2 {
+    font-size: 32px; line-height: 40px;
+  }
+  h3 {
+    font-size: 22px; line-height: 30px;
+  }
+  .h3 {
+    font-size: 22px; line-height: 30px;
+  }
+  .light {
+    font-weight: 200;
+  }
+  .mega {
+    font-size: 60px; line-height: 60px; font-weight: 200;
+  }
+  h1 {
+    font-size: 48px; line-height: 50px;
+  }
+  .h1 {
+    font-size: 48px; line-height: 50px;
+  }
+  h2 {
+    font-size: 32px; line-height: 40px;
+  }
+  .h2 {
+    font-size: 32px; line-height: 40px;
+  }
+  h3 {
+    font-size: 22px; line-height: 30px;
+  }
+  .h3 {
+    font-size: 22px; line-height: 30px;
+  }
+  .light {
+    font-weight: 200;
+  }
+  .col {
+    float: left;
+  }
+  .col-right {
+    float: right;
+  }
+  .col-center {
+    margin-right: auto; margin-left: auto;
+  }
+  .col-1 {
+    width: 8.33333%;
+  }
+  .col-pre-1 {
+    margin-left: 8.33333%;
+  }
+  .col-post-1 {
+    margin-right: 8.33333%;
+  }
+  .col-2 {
+    width: 16.66667%;
+  }
+  .col-pre-2 {
+    margin-left: 16.66667%;
+  }
+  .col-post-2 {
+    margin-right: 16.66667%;
+  }
+  .col-3 {
+    width: 25%;
+  }
+  .col-pre-3 {
+    margin-left: 25%;
+  }
+  .col-post-3 {
+    margin-right: 25%;
+  }
+  .col-4 {
+    width: 33.33333%;
+  }
+  .col-pre-4 {
+    margin-left: 33.33333%;
+  }
+  .col-post-4 {
+    margin-right: 33.33333%;
+  }
+  .col-5 {
+    width: 41.66667%;
+  }
+  .col-pre-5 {
+    margin-left: 41.66667%;
+  }
+  .col-post-5 {
+    margin-right: 41.66667%;
+  }
+  .col-6 {
+    width: 50%;
+  }
+  .col-pre-6 {
+    margin-left: 50%;
+  }
+  .col-post-6 {
+    margin-right: 50%;
+  }
+  .col-7 {
+    width: 58.33333%;
+  }
+  .col-pre-7 {
+    margin-left: 58.33333%;
+  }
+  .col-post-7 {
+    margin-right: 58.33333%;
+  }
+  .col-8 {
+    width: 66.66667%;
+  }
+  .col-pre-8 {
+    margin-left: 66.66667%;
+  }
+  .col-post-8 {
+    margin-right: 66.66667%;
+  }
+  .col-9 {
+    width: 75%;
+  }
+  .col-pre-9 {
+    margin-left: 75%;
+  }
+  .col-post-9 {
+    margin-right: 75%;
+  }
+  .col-10 {
+    width: 83.33333%;
+  }
+  .col-pre-10 {
+    margin-left: 83.33333%;
+  }
+  .col-post-10 {
+    margin-right: 83.33333%;
+  }
+  .col-11 {
+    width: 91.66667%;
+  }
+  .col-pre-11 {
+    margin-left: 91.66667%;
+  }
+  .col-post-11 {
+    margin-right: 91.66667%;
+  }
+  .col-12 {
+    width: 100%;
+  }
+  .col-pre-12 {
+    margin-left: 100%;
+  }
+  .col-post-12 {
+    margin-right: 100%;
+  }
+  .table {
+    display: table; table-layout: fixed; width: 100%;
+  }
+  .table-layout-auto {
+    table-layout: auto;
+  }
+  .table-cell {
+    display: table-cell; vertical-align: middle;
+  }
+  .mega {
+    font-size: 60px; line-height: 60px; font-weight: 200;
+  }
+  h1 {
+    font-size: 48px; line-height: 50px;
+  }
+  .h1 {
+    font-size: 48px; line-height: 50px;
+  }
+  h2 {
+    font-size: 32px; line-height: 40px;
+  }
+  .h2 {
+    font-size: 32px; line-height: 40px;
+  }
+  h3 {
+    font-size: 22px; line-height: 30px;
+  }
+  .h3 {
+    font-size: 22px; line-height: 30px;
+  }
+  .light {
+    font-weight: 200;
+  }
+}
+@media screen and (min-width: 570px) {
+  .m3 {
+    margin: 30px;
+  }
+  .mt3 {
+    margin-top: 30px;
+  }
+  .mr3 {
+    margin-right: 30px;
+  }
+  .mb3 {
+    margin-bottom: 30px;
+  }
+  .ml3 {
+    margin-left: 30px;
+  }
+  .m4 {
+    margin: 40px;
+  }
+  .mt4 {
+    margin-top: 40px;
+  }
+  .mr4 {
+    margin-right: 40px;
+  }
+  .mb4 {
+    margin-bottom: 40px;
+  }
+  .ml4 {
+    margin-left: 40px;
+  }
+  .m6 {
+    margin: 60px;
+  }
+  .mt6 {
+    margin-top: 60px;
+  }
+  .mr6 {
+    margin-right: 60px;
+  }
+  .mb6 {
+    margin-bottom: 60px;
+  }
+  .ml6 {
+    margin-left: 60px;
+  }
+  .p3 {
+    padding: 30px;
+  }
+  .pt3 {
+    padding-top: 30px;
+  }
+  .pr3 {
+    padding-right: 30px;
+  }
+  .pb3 {
+    padding-bottom: 30px;
+  }
+  .pl3 {
+    padding-left: 30px;
+  }
+  .px3 {
+    padding-right: 30px; padding-left: 30px;
+  }
+  .py3 {
+    padding-top: 30px; padding-bottom: 30px;
+  }
+  .p4 {
+    padding: 40px;
+  }
+  .pt4 {
+    padding-top: 40px;
+  }
+  .pr4 {
+    padding-right: 40px;
+  }
+  .pb4 {
+    padding-bottom: 40px;
+  }
+  .pl4 {
+    padding-left: 40px;
+  }
+  .px4 {
+    padding-right: 40px; padding-left: 40px;
+  }
+  .py4 {
+    padding-top: 40px; padding-bottom: 40px;
+  }
+  .p6 {
+    padding: 60px;
+  }
+  .pt6 {
+    padding-top: 60px;
+  }
+  .pr6 {
+    padding-right: 60px;
+  }
+  .pb6 {
+    padding-bottom: 60px;
+  }
+  .pl6 {
+    padding-left: 60px;
+  }
+  .px6 {
+    padding-right: 60px; padding-left: 60px;
+  }
+  .py6 {
+    padding-top: 60px; padding-bottom: 60px;
+  }
+  .table_grid_1 {
+    width: 40px;
+  }
+  .table_grid_2 {
+    width: 100px;
+  }
+  .table_grid_3 {
+    width: 160px;
+  }
+  .table_grid_4 {
+    width: 220px;
+  }
+  .table_grid_5 {
+    width: 280px;
+  }
+  .table_grid_6 {
+    width: 340px;
+  }
+  .table_grid_7 {
+    width: 400px;
+  }
+  .table_grid_8 {
+    width: 460px;
+  }
+  .table_grid_9 {
+    width: 520px;
+  }
+  .table_grid_10 {
+    width: 580px;
+  }
+  .table_grid_11 {
+    width: 640px;
+  }
+  .table_grid_12 {
+    width: 700px;
+  }
+  .table_grid_13 {
+    width: 760px;
+  }
+  .table_grid_14 {
+    width: 820px;
+  }
+  .table_grid_15 {
+    width: 880px;
+  }
+  .table_grid_16 {
+    width: 940px;
+  }
+  .m3 {
+    margin: 30px;
+  }
+  .mt3 {
+    margin-top: 30px;
+  }
+  .mr3 {
+    margin-right: 30px;
+  }
+  .mb3 {
+    margin-bottom: 30px;
+  }
+  .ml3 {
+    margin-left: 30px;
+  }
+  .m4 {
+    margin: 40px;
+  }
+  .mt4 {
+    margin-top: 40px;
+  }
+  .mr4 {
+    margin-right: 40px;
+  }
+  .mb4 {
+    margin-bottom: 40px;
+  }
+  .ml4 {
+    margin-left: 40px;
+  }
+  .m6 {
+    margin: 60px;
+  }
+  .mt6 {
+    margin-top: 60px;
+  }
+  .mr6 {
+    margin-right: 60px;
+  }
+  .mb6 {
+    margin-bottom: 60px;
+  }
+  .ml6 {
+    margin-left: 60px;
+  }
+  .blur {
+    -ms-filter: blur(6px); -webkit-filter: blur(6px); -moz-filter: blur(6px=
+); -o-filter: blur(6px); filter: blur(6px);
+  }
+  .m3 {
+    margin: 30px;
+  }
+  .mt3 {
+    margin-top: 30px;
+  }
+  .mr3 {
+    margin-right: 30px;
+  }
+  .mb3 {
+    margin-bottom: 30px;
+  }
+  .ml3 {
+    margin-left: 30px;
+  }
+  .m4 {
+    margin: 40px;
+  }
+  .mt4 {
+    margin-top: 40px;
+  }
+  .mr4 {
+    margin-right: 40px;
+  }
+  .mb4 {
+    margin-bottom: 40px;
+  }
+  .ml4 {
+    margin-left: 40px;
+  }
+  .m6 {
+    margin: 60px;
+  }
+  .mt6 {
+    margin-top: 60px;
+  }
+  .mr6 {
+    margin-right: 60px;
+  }
+  .mb6 {
+    margin-bottom: 60px;
+  }
+  .ml6 {
+    margin-left: 60px;
+  }
+  .p3 {
+    padding: 30px;
+  }
+  .pt3 {
+    padding-top: 30px;
+  }
+  .pr3 {
+    padding-right: 30px;
+  }
+  .pb3 {
+    padding-bottom: 30px;
+  }
+  .pl3 {
+    padding-left: 30px;
+  }
+  .px3 {
+    padding-right: 30px; padding-left: 30px;
+  }
+  .py3 {
+    padding-top: 30px; padding-bottom: 30px;
+  }
+  .p4 {
+    padding: 40px;
+  }
+  .pt4 {
+    padding-top: 40px;
+  }
+  .pr4 {
+    padding-right: 40px;
+  }
+  .pb4 {
+    padding-bottom: 40px;
+  }
+  .pl4 {
+    padding-left: 40px;
+  }
+  .px4 {
+    padding-right: 40px; padding-left: 40px;
+  }
+  .py4 {
+    padding-top: 40px; padding-bottom: 40px;
+  }
+  .p6 {
+    padding: 60px;
+  }
+  .pt6 {
+    padding-top: 60px;
+  }
+  .pr6 {
+    padding-right: 60px;
+  }
+  .pb6 {
+    padding-bottom: 60px;
+  }
+  .pl6 {
+    padding-left: 60px;
+  }
+  .px6 {
+    padding-right: 60px; padding-left: 60px;
+  }
+  .py6 {
+    padding-top: 60px; padding-bottom: 60px;
+  }
+  .table_grid_1 {
+    width: 40px;
+  }
+  .table_grid_2 {
+    width: 100px;
+  }
+  .table_grid_3 {
+    width: 160px;
+  }
+  .table_grid_4 {
+    width: 220px;
+  }
+  .table_grid_5 {
+    width: 280px;
+  }
+  .table_grid_6 {
+    width: 340px;
+  }
+  .table_grid_7 {
+    width: 400px;
+  }
+  .table_grid_8 {
+    width: 460px;
+  }
+  .table_grid_9 {
+    width: 520px;
+  }
+  .table_grid_10 {
+    width: 580px;
+  }
+  .table_grid_11 {
+    width: 640px;
+  }
+  .table_grid_12 {
+    width: 700px;
+  }
+  .table_grid_13 {
+    width: 760px;
+  }
+  .table_grid_14 {
+    width: 820px;
+  }
+  .table_grid_15 {
+    width: 880px;
+  }
+  .table_grid_16 {
+    width: 940px;
+  }
+  .m3 {
+    margin: 30px;
+  }
+  .mt3 {
+    margin-top: 30px;
+  }
+  .mr3 {
+    margin-right: 30px;
+  }
+  .mb3 {
+    margin-bottom: 30px;
+  }
+  .ml3 {
+    margin-left: 30px;
+  }
+  .m4 {
+    margin: 40px;
+  }
+  .mt4 {
+    margin-top: 40px;
+  }
+  .mr4 {
+    margin-right: 40px;
+  }
+  .mb4 {
+    margin-bottom: 40px;
+  }
+  .ml4 {
+    margin-left: 40px;
+  }
+  .m6 {
+    margin: 60px;
+  }
+  .mt6 {
+    margin-top: 60px;
+  }
+  .mr6 {
+    margin-right: 60px;
+  }
+  .mb6 {
+    margin-bottom: 60px;
+  }
+  .ml6 {
+    margin-left: 60px;
+  }
+  .blur {
+    -ms-filter: blur(6px); -webkit-filter: blur(6px); -moz-filter: blur(6px=
+); -o-filter: blur(6px); filter: blur(6px);
+  }
+}
+@media screen and (min-width: 640px) {
+  .button_outline {
+    border-width: 2px;
+  }
+  body .ksr-popover {
+    -webkit-box-shadow: 0px 2px 8px rgba(0,0,0,0.15); -moz-box-shadow: 0px =
+2px 8px rgba(0,0,0,0.15); -ms-box-shadow: 0px 2px 8px rgba(0,0,0,0.15); -o-=
+box-shadow: 0px 2px 8px rgba(0,0,0,0.15); box-shadow: 0px 2px 8px rgba(0,0,=
+0,0.15); border-radius: 6px; display: none; border: 1px solid #d9d9de; posi=
+tion: absolute; background: white; padding: 30px;
+  }
+  body .ksr-popover.visible {
+    display: block;
+  }
+  body .ksr-popover .arrow {
+    width: 0; height: 0; border-left: 10px solid transparent; border-right:=
+ 10px solid transparent; position: absolute; top: -10px; left: 50%; margin-=
+left: -10px;
+  }
+  body .ksr-popover .arrow-grey {
+    border-bottom: 10px solid #d9d9de;
+  }
+  body .ksr-popover .arrow-white {
+    border-bottom: 10px solid white; margin-top: 1px;
+  }
+  body .ksr-popover .close {
+    display: none;
+  }
+  body .ksr-popover .ksr-popover-title {
+    display: none;
+  }
+  .button_outline {
+    border-width: 2px;
+  }
+  body .ksr-popover {
+    -webkit-box-shadow: 0px 2px 8px rgba(0,0,0,0.15); -moz-box-shadow: 0px =
+2px 8px rgba(0,0,0,0.15); -ms-box-shadow: 0px 2px 8px rgba(0,0,0,0.15); -o-=
+box-shadow: 0px 2px 8px rgba(0,0,0,0.15); box-shadow: 0px 2px 8px rgba(0,0,=
+0,0.15); border-radius: 6px; display: none; border: 1px solid #d9d9de; posi=
+tion: absolute; background: white; padding: 30px;
+  }
+  body .ksr-popover.visible {
+    display: block;
+  }
+  body .ksr-popover .arrow {
+    width: 0; height: 0; border-left: 10px solid transparent; border-right:=
+ 10px solid transparent; position: absolute; top: -10px; left: 50%; margin-=
+left: -10px;
+  }
+  body .ksr-popover .arrow-grey {
+    border-bottom: 10px solid #d9d9de;
+  }
+  body .ksr-popover .arrow-white {
+    border-bottom: 10px solid white; margin-top: 1px;
+  }
+  body .ksr-popover .close {
+    display: none;
+  }
+  body .ksr-popover .ksr-popover-title {
+    display: none;
+  }
+}
+@media screen and (max-width: 640px) {
+  body .ksr-popover {
+    -webkit-overflow-scrolling: touch; overflow: auto; display: none; posit=
+ion: fixed; background-color: white; padding: 4.5rem 1rem 1rem; box-sizing:=
+ border-box; top: 0px !important; left: 0px !important; height: 100% !impor=
+tant; width: 100% !important;
+  }
+  body .ksr-popover.visible {
+    display: block;
+  }
+  body .ksr-popover .arrow {
+    display: none;
+  }
+  body .ksr-popover .close {
+    position: absolute; top: 0.625rem; right: 1rem;
+  }
+  body .ksr-popover .ksr-popover-title {
+    display: block; position: absolute; top: 0px; left: 0px; padding: 1rem;
+  }
+  .mobile-scroll-container {
+    padding-left: 0px; padding-right: 0px;
+  }
+  .mobile-scroll-row {
+    white-space: nowrap; overflow-y: hidden; overflow-x: auto; -webkit-over=
+flow-scrolling: touch; width: 100%; margin-left: 0px; margin-right: 0px;
+  }
+  .mobile-scroll-row .mobile-scroll-row-item {
+    display: inline-block; width: 90%; padding-right: 0px; float: none;
+  }
+  .mobile-scroll-row .mobile-scroll-row-item:first-child {
+    margin-left: 0px;
+  }
+  .mobile-scroll-row .mobile-scroll-row-item:last-child {
+    margin-right: 20px;
+  }
+  .mobile-scroll-row.mobile-scroll-row-small .mobile-scroll-row-item {
+    width: 14%;
+  }
+  .readability h1 {
+    font-size: 1.25rem; line-height: 1.25rem; margin-bottom: 1.25rem;
+  }
+  .readability h2 {
+    font-size: 1.25rem; line-height: 1.25rem; margin-bottom: 1.25rem;
+  }
+  .readability h3 {
+    font-size: 1.25rem; line-height: 1.25rem; margin-bottom: 1.25rem;
+  }
+  .readability h4 {
+    font-size: 1.25rem; line-height: 1.25rem; margin-bottom: 1.25rem;
+  }
+  .readability h5 {
+    font-size: 1.25rem; line-height: 1.25rem; margin-bottom: 1.25rem;
+  }
+  .readability h6 {
+    font-size: 1.25rem; line-height: 1.25rem; margin-bottom: 1.25rem;
+  }
+  .readability p {
+    font-size: 1rem;
+  }
+  .responsive-media .template {
+    margin-left: -20px; margin-right: -20px;
+  }
+  body .ksr-popover {
+    -webkit-overflow-scrolling: touch; overflow: auto; display: none; posit=
+ion: fixed; background-color: white; padding: 4.5rem 1rem 1rem; box-sizing:=
+ border-box; top: 0px !important; left: 0px !important; height: 100% !impor=
+tant; width: 100% !important;
+  }
+  body .ksr-popover.visible {
+    display: block;
+  }
+  body .ksr-popover .arrow {
+    display: none;
+  }
+  body .ksr-popover .close {
+    position: absolute; top: 0.625rem; right: 1rem;
+  }
+  body .ksr-popover .ksr-popover-title {
+    display: block; position: absolute; top: 0px; left: 0px; padding: 1rem;
+  }
+  .mobile-scroll-container {
+    padding-left: 0px; padding-right: 0px;
+  }
+  .mobile-scroll-row {
+    white-space: nowrap; overflow-y: hidden; overflow-x: auto; -webkit-over=
+flow-scrolling: touch; width: 100%; margin-left: 0px; margin-right: 0px;
+  }
+  .mobile-scroll-row .mobile-scroll-row-item {
+    display: inline-block; width: 90%; padding-right: 0px; float: none;
+  }
+  .mobile-scroll-row .mobile-scroll-row-item:first-child {
+    margin-left: 0px;
+  }
+  .mobile-scroll-row .mobile-scroll-row-item:last-child {
+    margin-right: 20px;
+  }
+  .mobile-scroll-row.mobile-scroll-row-small .mobile-scroll-row-item {
+    width: 14%;
+  }
+  .readability h1 {
+    font-size: 1.25rem; line-height: 1.25rem; margin-bottom: 1.25rem;
+  }
+  .readability h2 {
+    font-size: 1.25rem; line-height: 1.25rem; margin-bottom: 1.25rem;
+  }
+  .readability h3 {
+    font-size: 1.25rem; line-height: 1.25rem; margin-bottom: 1.25rem;
+  }
+  .readability h4 {
+    font-size: 1.25rem; line-height: 1.25rem; margin-bottom: 1.25rem;
+  }
+  .readability h5 {
+    font-size: 1.25rem; line-height: 1.25rem; margin-bottom: 1.25rem;
+  }
+  .readability h6 {
+    font-size: 1.25rem; line-height: 1.25rem; margin-bottom: 1.25rem;
+  }
+  .readability p {
+    font-size: 1rem;
+  }
+  .responsive-media .template {
+    margin-left: -20px; margin-right: -20px;
+  }
+}
+body.native-app-request.ipad .readability p {
+font-family: "Sentinel SSm A", "Sentinel SSm B", Georgia, serif; font-weigh=
+t: 400; font-style: normal; font-size: 1.125rem;
+}
+body.native-app-request.ipad .readability div {
+font-family: "Sentinel SSm A", "Sentinel SSm B", Georgia, serif; font-weigh=
+t: 400; font-style: normal; font-size: 1.125rem;
+}
+body.native-app-request.ipad .readability li {
+font-family: "Sentinel SSm A", "Sentinel SSm B", Georgia, serif; font-weigh=
+t: 400; font-style: normal; font-size: 1.125rem;
+}
+body.native-app-request.ipad .readability h1 {
+font-size: 1.5rem;
+}
+body.native-app-request.ipad .readability h2 {
+font-size: 1.5rem;
+}
+body.native-app-request.ipad .readability h3 {
+font-size: 1.5rem;
+}
+body.native-app-request.ipad .readability h4 {
+font-size: 1.5rem;
+}
+body.native-app-request.ipad .readability h5 {
+font-size: 1.5rem;
+}
+body.native-app-request.ipad .readability h6 {
+font-size: 1.5rem;
+}
+body:not(.native-app-request) .native-show {
+display: none;
+}
+body.native-app-request .native-show {
+display: block;
+}
+body.native-app-request .native-hide {
+display: none;
+}
+body.not-ipad .ipad-show {
+display: none;
+}
+body.ipad .ipad-show {
+display: block;
+}
+body.ipad .ipad-hide {
+display: none;
+}
+body {
+font-family: "Helvetica Neue", Helvetica, Arial, "Liberation Sans", FreeSan=
+s, sans-serif; color: #0f2105; margin: 0px;
+}
+body {
+width: 100%; height: 100%; padding: 0; margin: 0; font-size: 16px; display:=
+ block;
+}
+body.native-app-request.ipad .readability p {
+font-family: "Sentinel SSm A", "Sentinel SSm B", Georgia, serif; font-weigh=
+t: 400; font-style: normal; font-size: 1.125rem;
+}
+body.native-app-request.ipad .readability div {
+font-family: "Sentinel SSm A", "Sentinel SSm B", Georgia, serif; font-weigh=
+t: 400; font-style: normal; font-size: 1.125rem;
+}
+body.native-app-request.ipad .readability li {
+font-family: "Sentinel SSm A", "Sentinel SSm B", Georgia, serif; font-weigh=
+t: 400; font-style: normal; font-size: 1.125rem;
+}
+body.native-app-request.ipad .readability h1 {
+font-size: 1.5rem;
+}
+body.native-app-request.ipad .readability h2 {
+font-size: 1.5rem;
+}
+body.native-app-request.ipad .readability h3 {
+font-size: 1.5rem;
+}
+body.native-app-request.ipad .readability h4 {
+font-size: 1.5rem;
+}
+body.native-app-request.ipad .readability h5 {
+font-size: 1.5rem;
+}
+body.native-app-request.ipad .readability h6 {
+font-size: 1.5rem;
+}
+body:not(.native-app-request) .native-show {
+display: none;
+}
+body.native-app-request .native-show {
+display: block;
+}
+body.native-app-request .native-hide {
+display: none;
+}
+body.not-ipad .ipad-show {
+display: none;
+}
+body.ipad .ipad-show {
+display: block;
+}
+body.ipad .ipad-hide {
+display: none;
+}
+body {
+font-family: "Helvetica Neue", Helvetica, Arial, "Liberation Sans", FreeSan=
+s, sans-serif; color: #0f2105; margin: 0px;
+}
+body {
+width: 100%; height: 100%; padding: 0; margin: 0; font-size: 16px; display:=
+ block;
+}
+@media (max-width: 640px) {
+  .mobile-block {
+    display: block;
+  }
+  .mobile-show {
+    display: block;
+  }
+  .mobile-inline-block {
+    display: inline-block;
+  }
+  .mobile-hide {
+    display: none;
+  }
+  .mobile-center {
+    text-align: center;
+  }
+  .mobile-left-align {
+    text-align: left;
+  }
+  .mobile-right {
+    float: right;
+  }
+  .mobile-left {
+    float: left;
+  }
+  .mobile-clear {
+    float: none;
+  }
+  .mobile-inline {
+    display: inline;
+  }
+  .mobile-block {
+    display: block;
+  }
+  .mobile-show {
+    display: block;
+  }
+  .mobile-inline-block {
+    display: inline-block;
+  }
+  .mobile-hide {
+    display: none;
+  }
+  .mobile-center {
+    text-align: center;
+  }
+  .mobile-left-align {
+    text-align: left;
+  }
+  .mobile-right {
+    float: right;
+  }
+  .mobile-left {
+    float: left;
+  }
+  .mobile-clear {
+    float: none;
+  }
+  .mobile-inline {
+    display: inline;
+  }
+}
+</style>
+<table align=3D"center" cellpadding=3D"0" cellspacing=3D"0" class=3D"email-=
+wrap" height=3D"auto" style=3D"-webkit-margin-after: 0em; -webkit-margin-be=
+fore: 0em; background: #ffffff; border-collapse: collapse; border-spacing: =
+0; border: 0 none transparent; margin: 0 auto 100px; max-width: 500px; padd=
+ing: 0; width: 95%" width=3D"90%" bgcolor=3D"#ffffff">
+<tbody style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<!-- header w/ bg -->
+<tr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<td colspan=3D"3" style=3D"-webkit-margin-after: 0em; -webkit-margin-before=
+: 0em">
+<table background=3D"https://d3mlfyygrfdi2i.cloudfront.net/b3c5/bouncing-ba=
+lls-trans.gif" cellpadding=3D"0" cellspacing=3D"0" height=3D"auto" style=3D=
+"-webkit-margin-after: 0em; -webkit-margin-before: 0em; background: url('ht=
+tps://d3mlfyygrfdi2i.cloudfront.net/b3c5/bouncing-balls-trans.gif'); border=
+-collapse: collapse; border-spacing: 0; border: 0 none transparent; margin:=
+ 0 auto; padding: 0 width: 100%" width=3D"100%">
+<!-- logo -->
+<tr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<td class=3D"padding" style=3D"-webkit-margin-after: 0em; -webkit-margin-be=
+fore: 0em; width: 30px"></td>
+<td class=3D"content logo pt3" style=3D"-webkit-margin-after: 0em; -webkit-=
+margin-before: 0em; padding-top: 20px">
+<a href=3D"http://email.kickstarter.com/mpss/c/4wA/Oiw/t.1iq/YRHv6YFgRW-hsf=
+_u9xtvsw/h0/Kvh8eyEDYxccobuZZtapCapiCTt1zUTZ1STvm-2BU-2BsnNC-2FM9rJ2XaWO4Wp=
+hcITkAP" target=3D"_blank" style=3D"-webkit-margin-after: 0em; -webkit-marg=
+in-before: 0em; color: #00a0ff; text-decoration: none"><img alt=3D"Kickstar=
+ter" border=3D"0" class=3D"block" src=3D"https://d297h9he240fqh.cloudfront.=
+net/assets/emails/kickstarter-logo-130-4bd76f57873476030df202274d8043a1.png=
+" style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em; display: =
+block; width: 130px" width=3D"130">
+</a>
+</td>
+<td class=3D"padding" style=3D"-webkit-margin-after: 0em; -webkit-margin-be=
+fore: 0em; width: 30px"></td>
+</tr>
+<!-- Title -->
+<tr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<td class=3D"padding" style=3D"-webkit-margin-after: 0em; -webkit-margin-be=
+fore: 0em; width: 30px"></td>
+<td class=3D"pt4" style=3D"-webkit-margin-after: 0em; -webkit-margin-before=
+: 0em; padding-top: 40px">
+<h2 class=3D"mb0 regular" style=3D"-webkit-margin-after: 0em; -webkit-margi=
+n-before: 0em; font-size: 24px; font-weight: normal; line-height: 30px; mar=
+gin: 0px 0px 0">
+Hi there,
+</h2>
+
+</td>
+<td class=3D"padding" style=3D"-webkit-margin-after: 0em; -webkit-margin-be=
+fore: 0em; width: 30px"></td>
+</tr>
+</table>
+</td>
+</tr>
+<!-- hr -->
+<tr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<td class=3D"pt2" colspan=3D"3" style=3D"-webkit-margin-after: 0em; -webkit=
+-margin-before: 0em; padding-top: 20px">
+<hr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em; backgro=
+und: #d9d9de; border: 0; color: #d9d9de; height: 1px; margin: 0px; width: 1=
+00%">
+</td>
+</tr>
+<!-- Lede -->
+<tr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<td class=3D"padding" style=3D"-webkit-margin-after: 0em; -webkit-margin-be=
+fore: 0em; width: 30px"></td>
+<td class=3D"pt4" style=3D"-webkit-margin-after: 0em; -webkit-margin-before=
+: 0em; padding-top: 40px">
+<p class=3D"lh24" style=3D"-webkit-margin-after: 0em; -webkit-margin-before=
+: 0em; color: #0f2105; font-family: 'Helvetica Neue', Helvetica, Arial, 'Li=
+beration Sans', FreeSans, sans-serif; line-height: 24px; margin: 0px">
+You've just joined a community of amazing people committed to bringing new =
+ideas to life. Whether you're a seasoned maker, or trying something for the=
+ first time, we're glad that you're here.
+</p>
+<p class=3D"lh24" style=3D"-webkit-margin-after: 0em; -webkit-margin-before=
+: 0em; color: #0f2105; font-family: 'Helvetica Neue', Helvetica, Arial, 'Li=
+beration Sans', FreeSans, sans-serif; line-height: 24px; margin: 20px 0px 0=
+px">
+A few tips to help you get started:
+</p>
+</td>
+<td class=3D"padding" style=3D"-webkit-margin-after: 0em; -webkit-margin-be=
+fore: 0em; width: 30px"></td>
+</tr>
+<!-- Bulleted list -->
+<tr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<td class=3D"padding" style=3D"-webkit-margin-after: 0em; -webkit-margin-be=
+fore: 0em; width: 30px"></td>
+<td style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<table style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em; widt=
+h: 100%" width=3D"100%">
+<tr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<td class=3D"bullet pr2 pt4" style=3D"-webkit-margin-after: 0em; -webkit-ma=
+rgin-before: 0em; padding-right: 20px; padding-top: 40px; vertical-align: t=
+op" valign=3D"top">
+<img alt=3D"&amp;bull;" src=3D"https://d297h9he240fqh.cloudfront.net/assets=
+/emails/check-bullet-555989069e7b05a7e0b9c3ca3c109df6.png" style=3D"-webkit=
+-margin-after: 0em; -webkit-margin-before: 0em">
+</td>
+<td class=3D"pt4 lh24" style=3D"-webkit-margin-after: 0em; -webkit-margin-b=
+efore: 0em; line-height: 24px; padding-top: 40px">
+<span class=3D"bold" style=3D"-webkit-margin-after: 0em; -webkit-margin-bef=
+ore: 0em; font-weight: bold; vertical-align: top">
+Visit our Creator Handbook
+</span>
+<br style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+Everything you need to know about launching a project, from sharing your st=
+ory to shipping rewards,
+<a href=3D"http://email.kickstarter.com/mpss/c/4wA/Oiw/t.1iq/YRHv6YFgRW-hsf=
+_u9xtvsw/h1/Kvh8eyEDYxccobuZZtapCbffYohLZtDKRPdYsT8FY-2B4O1EZHA3T9Fs59jB4S7=
+36X6w3K8EOBmXw0Fx2UfkBUAg-3D-3D" style=3D"-webkit-margin-after: 0em; -webki=
+t-margin-before: 0em; color: #00a0ff; text-decoration: none">it's all here.=
+</a>
+</td>
+</tr>
+<tr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<td class=3D"bullet pr2 pt2" style=3D"-webkit-margin-after: 0em; -webkit-ma=
+rgin-before: 0em; padding-right: 20px; padding-top: 20px; vertical-align: t=
+op" valign=3D"top">
+<img alt=3D"&amp;bull;" src=3D"https://d297h9he240fqh.cloudfront.net/assets=
+/emails/check-bullet-555989069e7b05a7e0b9c3ca3c109df6.png" style=3D"-webkit=
+-margin-after: 0em; -webkit-margin-before: 0em">
+</td>
+<td class=3D"pt2 lh24" style=3D"-webkit-margin-after: 0em; -webkit-margin-b=
+efore: 0em; line-height: 24px; padding-top: 20px">
+<span class=3D"bold" style=3D"-webkit-margin-after: 0em; -webkit-margin-bef=
+ore: 0em; font-weight: bold; vertical-align: top">
+Back a project
+</span>
+<br style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<a href=3D"http://email.kickstarter.com/mpss/c/4wA/Oiw/t.1iq/YRHv6YFgRW-hsf=
+_u9xtvsw/h2/Kvh8eyEDYxccobuZZtapCdeRv9-2FJCAvxXYl-2BGNJ1HuQ6cgS3ZH8SpN2h0RR=
+sLOQG" style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em; colo=
+r: #00a0ff; text-decoration: none">Find one</a>
+that speaks to you and learn from the journey!
+</td>
+</tr>
+<tr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<td class=3D"bullet pr2 pt2" style=3D"-webkit-margin-after: 0em; -webkit-ma=
+rgin-before: 0em; padding-right: 20px; padding-top: 20px; vertical-align: t=
+op" valign=3D"top">
+<img alt=3D"&amp;bull;" src=3D"https://d297h9he240fqh.cloudfront.net/assets=
+/emails/check-bullet-555989069e7b05a7e0b9c3ca3c109df6.png" style=3D"-webkit=
+-margin-after: 0em; -webkit-margin-before: 0em">
+</td>
+<td class=3D"pt2 lh24" style=3D"-webkit-margin-after: 0em; -webkit-margin-b=
+efore: 0em; line-height: 24px; padding-top: 20px">
+<span class=3D"bold" style=3D"-webkit-margin-after: 0em; -webkit-margin-bef=
+ore: 0em; font-weight: bold; vertical-align: top">
+Download the Kickstarter App for iOS
+</span>
+<br style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<a href=3D"http://email.kickstarter.com/mpss/c/4wA/Oiw/t.1iq/YRHv6YFgRW-hsf=
+_u9xtvsw/h3/Kvh8eyEDYxccobuZZtapCZzHbKTC4uwQSB-2BYZQTw-2BJDRLdftiaEhQIF-2BR=
+bx9hR2N" style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em; co=
+lor: #00a0ff; text-decoration: none">Use our app</a>
+to send updates, and stay in touch with your backers on-the-go.
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"padding" style=3D"-webkit-margin-after: 0em; -webkit-margin-be=
+fore: 0em; width: 30px"></td>
+</tr>
+<!-- Supplementary copy -->
+<tr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<td class=3D"padding" style=3D"-webkit-margin-after: 0em; -webkit-margin-be=
+fore: 0em; width: 30px"></td>
+<td class=3D"pt4" style=3D"-webkit-margin-after: 0em; -webkit-margin-before=
+: 0em; padding-top: 40px">
+<p class=3D"lh24" style=3D"-webkit-margin-after: 0em; -webkit-margin-before=
+: 0em; color: #0f2105; font-family: 'Helvetica Neue', Helvetica, Arial, 'Li=
+beration Sans', FreeSans, sans-serif; line-height: 24px; margin: 0px">
+We can't wait to see what you create!
+</p>
+</td>
+<td class=3D"padding" style=3D"-webkit-margin-after: 0em; -webkit-margin-be=
+fore: 0em; width: 30px"></td>
+</tr>
+<!-- Love Kickstarter -->
+<tr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<td class=3D"padding" style=3D"-webkit-margin-after: 0em; -webkit-margin-be=
+fore: 0em; width: 30px"></td>
+<td class=3D"pt4" style=3D"-webkit-margin-after: 0em; -webkit-margin-before=
+: 0em; padding-top: 40px">
+<div class=3D"inline-block align-middle" style=3D"-webkit-margin-after: 0em=
+; -webkit-margin-before: 0em; display: inline-block; vertical-align: middle=
+">
+<img alt=3D"&lt;3" src=3D"https://d3mlfyygrfdi2i.cloudfront.net/18fb/heart-=
+icon.png" style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em; w=
+idth: 17px" width=3D"17">
+</div>
+<div class=3D"inline-block align-middle bold" style=3D"-webkit-margin-after=
+: 0em; -webkit-margin-before: 0em; display: inline-block; font-weight: bold=
+; vertical-align: middle">
+Kickstarter
+</div>
+</td>
+<td class=3D"padding" style=3D"-webkit-margin-after: 0em; -webkit-margin-be=
+fore: 0em; width: 30px"></td>
+</tr>
+
+<!-- hr -->
+<tr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<td colspan=3D"3" style=3D"-webkit-margin-after: 0em; -webkit-margin-before=
+: 0em">
+<hr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em; backgro=
+und: #d9d9de; border: 0; color: #d9d9de; height: 1px; margin: 0px; width: 1=
+00%">
+</td>
+</tr>
+
+<!-- hr -->
+<tr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<td class=3D"pt4" colspan=3D"3" style=3D"-webkit-margin-after: 0em; -webkit=
+-margin-before: 0em; padding-top: 40px">
+<hr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em; backgro=
+und: #d9d9de; border: 0; color: #d9d9de; height: 1px; margin: 0px; width: 1=
+00%">
+</td>
+</tr>
+<!-- footer -->
+<tr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<td class=3D"padding" style=3D"-webkit-margin-after: 0em; -webkit-margin-be=
+fore: 0em; width: 30px"></td>
+<td class=3D"pt4" style=3D"-webkit-margin-after: 0em; -webkit-margin-before=
+: 0em; padding-top: 40px">
+<table cellpadding=3D"0" cellspacing=3D"0" class=3D"mb0" style=3D"-webkit-m=
+argin-after: 0em; -webkit-margin-before: 0em; border-collapse: collapse; bo=
+rder-spacing: 0; border: 0 none transparent; margin-bottom: 0; width: 100%"=
+ width=3D"100%">
+<tr style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em">
+<td align=3D"right" style=3D"-webkit-margin-after: 0em; -webkit-margin-befo=
+re: 0em; align: left; height: 25px; padding-right: 1px; vertical-align: top=
+; width: 25px" valign=3D"top">
+<a href=3D"http://email.kickstarter.com/mpss/c/4wA/Oiw/t.1iq/YRHv6YFgRW-hsf=
+_u9xtvsw/h4/HE2UYZIDTZxfLuJ8qHDFiE6TXyKSQfFtNvxvZHBFHED7gU76uJazXLjfF-2Fe-2=
+Fa-2FNu" style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em; co=
+lor: #00a0ff; text-decoration: none"><img alt=3D"Facebook" height=3D"25" sr=
+c=3D"https://d297h9he240fqh.cloudfront.net/assets/emails/facebook-social-a6=
+c3cf9d43763bb38907b5855a7f5b49.png" style=3D"-webkit-margin-after: 0em; -we=
+bkit-margin-before: 0em; height: 25px; width: 25px" width=3D"25">
+</a>
+</td>
+<td align=3D"right" class=3D"pr1" style=3D"-webkit-margin-after: 0em; -webk=
+it-margin-before: 0em; align: left; height: 25px; padding-right: 10px; vert=
+ical-align: top; width: 25px" valign=3D"top">
+<a href=3D"http://email.kickstarter.com/mpss/c/4wA/Oiw/t.1iq/YRHv6YFgRW-hsf=
+_u9xtvsw/h5/VE2atosPJwyp5yA4oN-2FSao8Yww7d9kTjS12d6H439Eg-3D" style=3D"-web=
+kit-margin-after: 0em; -webkit-margin-before: 0em; color: #00a0ff; text-dec=
+oration: none"><img alt=3D"Twitter" height=3D"25" src=3D"https://d297h9he24=
+0fqh.cloudfront.net/assets/emails/twitter-social-71bcdf358882fd7e7fb1ec0f73=
+d8e224.png" style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em;=
+ height: 25px; width: 25px" width=3D"25">
+</a>
+</td>
+<td style=3D"-webkit-margin-after: 0em; -webkit-margin-before: 0em; vertica=
+l-align: top" valign=3D"top">
+<div class=3D"inline-block" style=3D"-webkit-margin-after: 0em; -webkit-mar=
+gin-before: 0em; display: inline-block">
+<p class=3D"h6 grey-dark no-margin" style=3D"-webkit-margin-after: 0em; -we=
+bkit-margin-before: 0em; color: #828587; font-family: 'Helvetica Neue', Hel=
+vetica, Arial, 'Liberation Sans', FreeSans, sans-serif; font-size: 12px; li=
+ne-height: 16px; margin: 0">
+Kickstarter   =C2=B7
+</p>
+</div>
+<div class=3D"inline-block" style=3D"-webkit-margin-after: 0em; -webkit-mar=
+gin-before: 0em; display: inline-block">
+<p class=3D"h6 grey-dark no-margin" style=3D"-webkit-margin-after: 0em; -we=
+bkit-margin-before: 0em; color: #828587; font-family: 'Helvetica Neue', Hel=
+vetica, Arial, 'Liberation Sans', FreeSans, sans-serif; font-size: 12px; li=
+ne-height: 16px; margin: 0">
+58 Kent St, Brooklyn NY 11222   =C2=B7
+</p>
+</div>
+<div class=3D"inline-block" style=3D"-webkit-margin-after: 0em; -webkit-mar=
+gin-before: 0em; display: inline-block">
+<p class=3D"h6 grey-dark no-margin" style=3D"-webkit-margin-after: 0em; -we=
+bkit-margin-before: 0em; color: #828587; font-family: 'Helvetica Neue', Hel=
+vetica, Arial, 'Liberation Sans', FreeSans, sans-serif; font-size: 12px; li=
+ne-height: 16px; margin: 0">
+<a class=3D"grey-dark" href=3D"http://email.kickstarter.com/mpss/c/4wA/Oiw/=
+t.1iq/YRHv6YFgRW-hsf_u9xtvsw/h6/Kvh8eyEDYxccobuZZtapCapiCTt1zUTZ1STvm-2BU-2=
+BsnNC-2FM9rJ2XaWO4WphcITkAP" style=3D"-webkit-margin-after: 0em; -webkit-ma=
+rgin-before: 0em; color: #828587; text-decoration: none">www.kickstarter.co=
+m</a>
+</p>
+</div>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"padding" style=3D"-webkit-margin-after: 0em; -webkit-margin-be=
+fore: 0em; width: 30px"></td>
+</tr>
+
+</tbody>
+</table>
+
+<img src=3D"http://email.kickstarter.com/mpss/o/4wA/Oiw/t.1iq/YRHv6YFgRW-hs=
+f_u9xtvsw/o.gif" alt=3D"" width=3D"1" height=3D"1" border=3D"0" style=3D"he=
+ight:1px !important;width:1px !important;border-width:0 !important;margin-t=
+op:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin=
+-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;pad=
+ding-right:0 !important;padding-left:0 !important;"/>
+</body>
+</html>
+
+
+----==_mimepart_548a0a21bb406_351e3fc3300073f4153f9--
