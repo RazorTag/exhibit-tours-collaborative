@@ -97,7 +97,7 @@
  .no-header-page .wsite-header { display:none; }
  .landing-page #banner { padding: 0; }
  #bannerleft { float: right; width: 400px; }
- .landing-page .wsite-header { width: 400px; height: 300px; background: url(theme/banner-landing.jpg?1426183161) no-repeat; }
+ .landing-page .wsite-header { width: 400px; height: 300px; background: url(theme/ETCLogo.png) no-repeat; }
  #bannerright { float:left ; width: 500px; height: 300px; }
  #bannerright h2 { font-size:20px; padding: 0px; line-height: 25px; }
  #bannerright div.paragraph { padding: 20px 0px; line-height: 140%; }
