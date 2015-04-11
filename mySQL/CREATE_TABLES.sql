@@ -1,5 +1,5 @@
 set foreign_key_checks = 0;
-DROP TABLE IF EXISTS Organization, Inquiry, Admin;
+DROP TABLE IF EXISTS Organization, Inquiry, Admin, Picture;
 set foreign_key_checks = 1;
 
 CREATE TABLE Organization (
@@ -15,6 +15,7 @@ CREATE TABLE Organization (
 	addressCity VARCHAR(255),
 	addressState VARCHAR(255),
 	addressZIP VARCHAR(255),
+	addressCountry VARCHAR(255),
 	website VARCHAR(255),
 	interest VARCHAR(255),
 	interestNotes VARCHAR(255),

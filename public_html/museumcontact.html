@@ -3,6 +3,8 @@
 <head>
 <title>MuseumContact - Exhibit Tours Collaborative</title>
 
+<script type="text/javascript" src="js/museum.js" />
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
   
 <link rel="stylesheet" href="http://cdn2.editmysite.com/css/sites.css?buildTime=1234" type="text/css" /><link rel='stylesheet' type='text/css' href='http://cdn1.editmysite.com/editor/libraries/fancybox/fancybox.css?1234' />
@@ -94,7 +96,7 @@ else document.observe('dom:loaded', initFlyouts);
 <div class="wsite-spacer" style="height:50px;"></div>
 
 <div>
-<form enctype="multipart/form-data" action="createMuseum.php" method="POST" id="form-192448983412093340">
+<form enctype="multipart/form-data" action="createMuseum.php" method="POST" id="form-data">
 <div id="192448983412093340-form-parent" class="wsite-form-container" style="margin-top:10px;">
   <ul class="formlist" id="192448983412093340-form-list">
     <h2 class="wsite-content-title" style="text-align:left;">Museum Contact Info</h2>
@@ -175,7 +177,7 @@ else document.observe('dom:loaded', initFlyouts);
   <input type="hidden" name="form_version" value="2" />
   <input type="hidden" name="wsite_approved" id="wsite-approved" value="approved" />
   <input type="hidden" name="ucfid" value="192448983412093340" />
-  <input type='submit' style='position:absolute;top:0;left:-9999px;width:1px;height:1px' /><a class='wsite-button' onclick="document.getElementById('form-192448983412093340').submit()"><span class='wsite-button-inner'>Submit</span></a>
+  <input type='submit' style='position:absolute;top:0;left:-9999px;width:1px;height:1px' /><a class='wsite-button' onclick="submit()"><span class='wsite-button-inner'>Submit</span></a>
 </div>
 </form>
 
