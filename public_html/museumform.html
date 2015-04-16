@@ -103,50 +103,114 @@ else document.observe('dom:loaded', initFlyouts);
 						<form>
 						<form action="createCollection.php">
 
-						Contact name:<br>
-						<input type="text" name="Contact name: ">
-						<br><br>
-						
-						Position:<br>
-						<input type="text" name="Position:">
-						<br><br>
-						
-						Museum:<br>
-						<input type="text" name="Museum: ">
-						<br><br>
-						
-						Phone number:<br>
-						<input type="text" name="Phone number: ">
-						<br><br>
-						
-						Fax:<br>
-						<input type="text" name="Fax">
-						<br><br>
-						
-						Email:<br>
-						<input type="text" name="Email">
-						<br><br>
-						
-						Museum Address:<br>
-						<input type="text" name="Museum Address">
-						<br><br>
-						
-						City:<br>
-						<input type="text" name="City">
-						<br><br>
-						
-						State/Province:<br>
-						<input type="text" name="State/Province">
-						<br><br>
-						
-						Zip Code:<br>
-						<input type="text" name="Zip Code">
+						<h3>Collaborate With Us:</h6>
+						*Field is required.
 						<br><br>
 
-						I am interested in:
-						<textarea name="description" rows="15" cols="50">
-						</textarea>
-						<br><br>
+						<table> 
+						<tr>
+							<td style = 'padding-right: 10px'>
+								First name*:<br>
+								<input type="text" name="Contact name: " required>
+								<br><br>
+							</td>
+							<td colspan='2'>
+								Last name*:<br>
+								<input type="text" name="Contact name: " required>
+								<br><br>
+							</td>
+						</tr>
+
+						<tr>
+							<td>
+								Position:<br>
+								<input type="text" name="Position:" >
+								<br><br>
+							</td>
+						</tr>
+
+						<tr>
+							<td>
+								Museum:<br>
+								<input type="text" name="Museum: " >
+								<br><br>
+							</td>
+						</tr>
+						
+						<tr>
+							<td>
+								Phone number*:<br>
+								<input size='13' maxlength='13' type="text" name="Phone Number:" placeholder='(XXX)XXX-XXXX' required>
+								<br><br>
+							</td>
+
+							<td>
+								Fax:<br>
+								<input size='13' maxlength='13' type="text" name="Fax" placeholder='(XXX)XXX-XXXX'>
+								<br><br>
+							</td>
+						</tr>
+						
+						<tr>
+						</tr>
+						
+						<tr>
+							<td>
+								Email*:<br>
+								<input type="text" name="Email" required>
+								<br><br>
+							</td>
+						</tr>
+						
+						<tr>
+							<td>
+								Museum Street Address*:<br>
+								<input type="text" name="Museum Address" required>
+								<br><br>
+							</td>
+						</tr>
+						
+						<tr>
+							
+						</tr>
+						
+						<tr><td style = 'padding-right: 10px'>
+								City*:<br>
+								<input type="text" name="City" required>
+								<br><br>
+							</td>
+							<td style = 'padding-right: 10px'>
+								State/Province*:<br>
+								<input size='2' maxlength='2' type="text" name="State/Province" required>
+								<br><br>
+							</td>
+
+							<td>
+								Zip Code*:<br>
+								<input size='10' maxlength='10' type="text" name="Zip Code" required>
+								<br><br>
+							</td>
+						</tr>
+
+						<tr>
+							<td>
+								Website:<br>
+								<input type="text" name="Museum Address">
+								<br><br>
+							</td>
+						</tr>
+
+
+						<tr>
+							<td colspan='3'>
+								I am interested in:
+								<textarea name="description" rows="15" cols="50">
+								</textarea>
+								<br><br>
+							</td>
+						</tr>
+						
+						</table>
 						
 						<a class="wsite-button wsite-button-large wsite-button-highlight">
 						<input class="wsite-button-inner" style="border: none; font-family: 'Open Sans', sans-serif; font-size: 20px; font-weight: 500; "; type="submit" value="SUBMIT">
