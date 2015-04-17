@@ -74,7 +74,7 @@ $count=$result->num_rows;*/
 	   exit;
 	}
 	
-	//echo "<META HTTP-EQUIV=REFRESH CONTENT='0; URL=../thank-you.html'>";
+	echo "<META HTTP-EQUIV=REFRESH CONTENT='0; URL=../thank-you.html'>";
 //}
 
 exit();
