@@ -3,7 +3,7 @@ session_start();
 
 //require 'database.php';
 
-$contactName = mysqli_real_escape_string($db, $_POST['contact-name']);
+/*$contactName = mysqli_real_escape_string($db, $_POST['contact-name']);
 $position = mysqli_real_escape_string($db, $_POST['position']);
 $organizationName = mysqli_real_escape_string($db, $_POST['organization-name']);
 $organizationType = $_POST['organization-type'];
@@ -15,7 +15,21 @@ $addressCity = mysqli_real_escape_string($db, $_POST['city']);
 $addressState = mysqli_real_escape_string($db, $_POST['state-province']);
 $addressZIP = mysqli_real_escape_string($db, $_POST['zip-code']);
 $website = mysqli_real_escape_string($db, $_POST['image-gallery']);
-$interestNotes = mysqli_real_escape_string($db, $_POST['description']);
+$interestNotes = mysqli_real_escape_string($db, $_POST['description']);*/
+
+$contactName = $_POST['contact-name'];
+$position = $_POST['position'];
+$organizationName = $_POST['organization-name'];
+$organizationType = $_POST['organization-type'];
+$phoneNumber = $_POST['phone-number'];
+$faxNumber = $_POST['fax'];
+$email = $_POST['email'];
+$addressStreet1 = $_POST['museum-address'];
+$addressCity = $_POST['city'];
+$addressState = $_POST['state-province'];
+$addressZIP = $_POST['zip-code'];
+$website = $_POST['image-gallery'];
+$interestNotes = $_POST['description'];
 
 /*$sql = "SELECT * FROM Organization WHERE organizationName='$organizationName' AND organizationType='$organizationType'";
 $result = $db->query($sql);
@@ -60,7 +74,7 @@ $count=$result->num_rows;*/
 	   exit;
 	}
 	
-	echo "<META HTTP-EQUIV=REFRESH CONTENT='0; URL=../thank-you.html'>";
+	//echo "<META HTTP-EQUIV=REFRESH CONTENT='0; URL=../thank-you.html'>";
 //}
 
 exit();

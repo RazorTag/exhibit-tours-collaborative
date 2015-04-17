@@ -100,7 +100,7 @@ else document.observe('dom:loaded', initFlyouts);
 		  <div id="bannerright" class="landing-banner-outer">
 			    <div class="landing-banner-mid">
 				    <div class="landing-banner-inner">
-						<form action="php/createCollaborator.php">
+						<form action="php/createCollaborator.php" method="POST">
 
 						<h3>Share Your Collection:</h6>
 						*Field is required.
@@ -109,8 +109,8 @@ else document.observe('dom:loaded', initFlyouts);
 						<table> 
 						<tr>
 							<td style = 'padding-right: 10px'>
-								First name*:<br>
-								<input type="text" name="name" required>
+								Name*:<br>
+								<input type="text" name="contact-name" required>
 								<br><br>
 							</td>
 						</tr>
@@ -135,7 +135,7 @@ else document.observe('dom:loaded', initFlyouts);
 						<tr>
 							<td>
 								Phone number*:<br>
-								<input size='13' maxlength='13' type="text" name="phone-number:" placeholder='(XXX)XXX-XXXX' required>
+								<input size='13' maxlength='13' type="text" name="phone-number" placeholder='(XXX)XXX-XXXX' required>
 								<br><br>
 							</td>
 
