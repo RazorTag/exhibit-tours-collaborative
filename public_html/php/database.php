@@ -1,7 +1,7 @@
 <?php
 
 // Database configuration
-$db_host = "localhost"; // Host name
+$db_host = "mysql16.000webhost.com"; // Host name
 $db_username = "a4459657_bull"; // Mysql username
 $db_password = "bullshit123"; // Mysql password
 $db_name = "a4459657_bull"; // Database name

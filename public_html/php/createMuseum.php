@@ -3,42 +3,67 @@ session_start();
 
 require 'database.php';
 
-$contactName = $_POST[''];
-$position = $_POST[''];
-$organizationName = $_POST[''];
+$contactName = mysqli_real_escape_string($db, $_POST['contact-name']);
+$position = mysqli_real_escape_string($db, $_POST['position']);
+$organizationName = mysqli_real_escape_string($db, $_POST['museum']);
 $organizationType = "museum";
-$phoneNumber = $_POST[''];
-$faxNumber = $_POST[''];
-$email = $_POST[''];
-$addressStreet1 = $_POST[''];
-$addressStreet2 = $_POST[''];
-$addressCity = $_POST[''];
-$addressState = $_POST[''];
-$addressZIP = $_POST[''];
-$addressCountry = $_POST[''];
-$website = $_POST[''];
-$interest = $_POST[''];
-$interestNotes = $_POST[''];
+$phoneNumber = mysqli_real_escape_string($db, $_POST['phone-number']);
+$faxNumber = mysqli_real_escape_string($db, $_POST['fax']);
+$email = mysqli_real_escape_string($db, $_POST['email']);
+$addressStreet1 = mysqli_real_escape_string($db, $_POST['museum-address']);
+$addressCity = mysqli_real_escape_string($db, $_POST['city']);
+$addressState = mysqli_real_escape_string($db, $_POST['state-province']);
+$addressZIP = mysqli_real_escape_string($db, $_POST['zip-code']);
+$addressCountry = mysqli_real_escape_string($db, $_POST['country']);
+$website = mysqli_real_escape_string($db, $_POST['image-gallery']);
+$interestNotes = mysqli_real_escape_string($db, $_POST['description']);
 
-$sql = "SELECT * FROM Organization WHERE organizationName='$organizationName' AND organizationType='$organizationType'";
+/*$sql = "SELECT * FROM Organization WHERE organizationName='$organizationName' AND organizationType='$organizationType'";
 $result = $db->query($sql);
-$count=$result->num_rows;
+$count=$result->num_rows;*/
 
-if($count > 0) {
+/*if($count > 0) {
 	$_SESSION['defaultCustomer'] = $customerName;
-	echo "<META HTTP-EQUIV=REFRESH CONTENT='0; URL=../customers.html'>";
+	echo "<META HTTP-EQUIV=REFRESH CONTENT='0; URL=../thank-you.html'>";
     echo "<script type=\"text/javascript\"> alert(\"A museum with that name already exists.\"); </script>";
-}
-else {
+}*/
+//else {
 	$sql = "INSERT INTO Organization (contactName, position, organizationName, organizationType, phoneNumber, faxNumber, email, addressStreet1, addressStreet2, addressCity, addressState, addressZIP, addressCountry, website, interest, interestNotes) VALUES('$contactName', '$position', '$organizationName', '$organizationType', '$phoneNumber', '$faxNumber', '$email', '$addressStreet1', '$addressStreet2', '$addressCity', '$addressState', '$addressZIP', '$addressCountry', '$website', '$interest', '$interestNotes')";
 	$db->query($sql);
-	include 'organizationPDF.php';
 
-	$subject = "New Museum Registration";
-	mail('museum@exhibittours.org', $subject, "", )
+
+	require "PHPMailer/class.phpmailer.php";
+	$mail = new PHPMailer();
+	$mail->AddAddress("enorswo@gmail.com", "Evan");
+	$mail->AddAddress("MUSEUMFORM@gmail.com", "ETC");
+	$mail->Subject = "New Museum Registration";
+	$mail->WordWrap = 120;
+	$mail->IsHTML(true);
+
+	//$message .= "<font size=\"3em\"><b></b></font>";
+	$message .= $contactName."<br>";
+	$message .= $position."<br>";
+	$message .= $organizationName."<br>";
+	$message .= "<br>";
+	$message .= $addressStreet1."<br>";
+	$message .= $addressCity.", ".$addressState." ".$addressZIP."<br>";
+	$message .= $addressCountry."<br>";
+	$message .= "<br>";
+	$message .= $phoneNumber."<br>";
+	$message .= $email."<br>";
+	$message .= "<a size=\"2em\" href=\"http://www.drudgereport.com/\"><b>Image Gallery</b></a><br><br>";
+	$message .= "<br>";
+	$message .= "I am interested in: ".$interestNotes;
+
+	$mail->Body = $message;
+	if(!$mail->Send()) {
+	   echo "Message could not be sent. <p>";
+	   echo "Mailer Error: " . $mail->ErrorInfo;
+	   exit;
+	}
 	
 	echo "<META HTTP-EQUIV=REFRESH CONTENT='0; URL=../thank-you.html'>";
-}
+//}
 
 exit();
 ?>
