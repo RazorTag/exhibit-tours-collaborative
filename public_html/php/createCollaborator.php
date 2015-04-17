@@ -5,8 +5,8 @@ require 'database.php';
 
 $contactName = mysqli_real_escape_string($db, $_POST['contact-name']);
 $position = mysqli_real_escape_string($db, $_POST['position']);
-$organizationName = mysqli_real_escape_string($db, $_POST['museum']);
-$organizationType = "museum";
+$organizationName = mysqli_real_escape_string($db, $_POST['organization-name']);
+$organizationType = $_POST['organization-type'];
 $phoneNumber = mysqli_real_escape_string($db, $_POST['phone-number']);
 $faxNumber = mysqli_real_escape_string($db, $_POST['fax']);
 $email = mysqli_real_escape_string($db, $_POST['email']);

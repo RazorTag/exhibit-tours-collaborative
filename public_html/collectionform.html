@@ -101,7 +101,7 @@ else document.observe('dom:loaded', initFlyouts);
 			    <div class="landing-banner-mid">
 				    <div class="landing-banner-inner">
 						<form>
-						<form action="createCollection.php">
+						<form action="createCollaborator.php">
 
 						<h3>Share Your Collection:</h6>
 						*Field is required.
@@ -111,12 +111,7 @@ else document.observe('dom:loaded', initFlyouts);
 						<tr>
 							<td style = 'padding-right: 10px'>
 								First name*:<br>
-								<input type="text" name="Contact name: " required>
-								<br><br>
-							</td>
-							<td colspan='2'>
-								Last name*:<br>
-								<input type="text" name="Contact name: " required>
+								<input type="text" name="name" required>
 								<br><br>
 							</td>
 						</tr>
@@ -124,7 +119,7 @@ else document.observe('dom:loaded', initFlyouts);
 						<tr>
 							<td>
 								Position:<br>
-								<input type="text" name="Position:">
+								<input type="text" name="position">
 								<br><br>
 							</td>
 						</tr>
@@ -132,7 +127,8 @@ else document.observe('dom:loaded', initFlyouts);
 						<tr>
 							<td>
 								Organization:<br>
-								<input type="text" name="Museum: ">
+								<input type="text" name="organization-name">
+								<input type="text" value="collection" name="organization-type" hidden>
 								<br><br>
 							</td>
 						</tr>
@@ -140,13 +136,13 @@ else document.observe('dom:loaded', initFlyouts);
 						<tr>
 							<td>
 								Phone number*:<br>
-								<input size='13' maxlength='13' type="text" name="Phone Number:" placeholder='(XXX)XXX-XXXX' required>
+								<input size='13' maxlength='13' type="text" name="phone-number:" placeholder='(XXX)XXX-XXXX' required>
 								<br><br>
 							</td>
 
 							<td>
 								Fax:<br>
-								<input size='13' maxlength='13' type="text" name="Fax" placeholder='(XXX)XXX-XXXX'>
+								<input size='13' maxlength='13' type="text" name="fax" placeholder='(XXX)XXX-XXXX'>
 								<br><br>
 							</td>
 						</tr>
@@ -157,7 +153,7 @@ else document.observe('dom:loaded', initFlyouts);
 						<tr>
 							<td>
 								Email*:<br>
-								<input type="text" name="Email" required>
+								<input type="text" name="email" required>
 								<br><br>
 							</td>
 						</tr>
@@ -165,7 +161,7 @@ else document.observe('dom:loaded', initFlyouts);
 						<tr>
 							<td>
 								Organization Address*:<br>
-								<input type="text" name="Museum Address" required>
+								<input type="text" name="museum-address" required>
 								<br><br>
 							</td>
 						</tr>
@@ -176,18 +172,18 @@ else document.observe('dom:loaded', initFlyouts);
 						
 						<tr><td style = 'padding-right: 10px'>
 								City*:<br>
-								<input type="text" name="City" required>
+								<input type="text" name="city" required>
 								<br><br>
 							</td>
 							<td style = 'padding-right: 10px'>
 								State/Province*:<br>
-								<input size='2' maxlength='2' type="text" name="State/Province" required>
+								<input size='2' maxlength='2' type="text" name="state-province" required>
 								<br><br>
 							</td>
 
 							<td>
 								Zip Code*:<br>
-								<input size='10' maxlength='10' type="text" name="Zip Code" required>
+								<input size='10' maxlength='10' type="text" name="zip-code" required>
 								<br><br>
 							</td>
 						</tr>
@@ -195,7 +191,7 @@ else document.observe('dom:loaded', initFlyouts);
 						<tr>
 							<td>
 								Website:<br>
-								<input type="text" name="Museum Address">
+								<input type="text" name="museum-address">
 								<br><br>
 							</td>
 						</tr>
@@ -212,7 +208,7 @@ else document.observe('dom:loaded', initFlyouts);
 						<tr>
 							<td>
 								Link to image gallery:<br>
-								<input type="text" name="galleryLink">
+								<input type="text" name="image-gallery">
 								<br><br>
 							</td>
 						</tr>

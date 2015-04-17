@@ -100,7 +100,7 @@ else document.observe('dom:loaded', initFlyouts);
 		  <div id="bannerright" class="landing-banner-outer">
 			    <div class="landing-banner-mid">
 				    <div class="landing-banner-inner">
-						<form action="php/createMuseum.php" method="POST">
+						<form action="php/createCollaborator.php" method="POST">
 
 						<table> 
 						<tr>
@@ -122,7 +122,8 @@ else document.observe('dom:loaded', initFlyouts);
 						<tr>
 							<td>
 								Museum:<br>
-								<input type="text" name="museum" >
+								<input type="text" name="organization-name" >
+								<input type="text" value="museum" name="organization-type" hidden>
 								<br><br>
 							</td>
 						</tr>						
