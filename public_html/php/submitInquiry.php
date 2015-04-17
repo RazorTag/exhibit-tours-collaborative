@@ -13,7 +13,8 @@ $db->query($sql);*/
 
 require "PHPMailer/class.phpmailer.php";
 	$mail = new PHPMailer();
-	$mail->AddAddress("enorswo@gmail.com", "Evan");
+	//$mail->AddAddress("enorswo@gmail.com", "Evan");
+	$mail->AddAddress("museumform@gmail.com", "ETC");
 	$mail->Subject = "Inquiry from ".$firstName.$lastName;
 	$mail->WordWrap = 120;
 	$mail->IsHTML(true);

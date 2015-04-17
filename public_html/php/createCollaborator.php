@@ -47,8 +47,8 @@ $count=$result->num_rows;*/
 
 	require "PHPMailer/class.phpmailer.php";
 	$mail = new PHPMailer();
-	$mail->AddAddress("enorswo@gmail.com", "Evan");
-	//$mail->AddAddress("MUSEUMFORM@gmail.com", "ETC");
+	//$mail->AddAddress("enorswo@gmail.com", "Evan");
+	$mail->AddAddress("museumform@gmail.com", "ETC");
 	$mail->Subject = "New ".$organizationType." Registration: ".$organizationName;
 	$mail->WordWrap = 120;
 	$mail->IsHTML(true);
