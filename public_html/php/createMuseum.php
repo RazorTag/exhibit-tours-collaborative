@@ -14,7 +14,6 @@ $addressStreet1 = mysqli_real_escape_string($db, $_POST['museum-address']);
 $addressCity = mysqli_real_escape_string($db, $_POST['city']);
 $addressState = mysqli_real_escape_string($db, $_POST['state-province']);
 $addressZIP = mysqli_real_escape_string($db, $_POST['zip-code']);
-$addressCountry = mysqli_real_escape_string($db, $_POST['country']);
 $website = mysqli_real_escape_string($db, $_POST['image-gallery']);
 $interestNotes = mysqli_real_escape_string($db, $_POST['description']);
 
@@ -35,7 +34,7 @@ $count=$result->num_rows;*/
 	require "PHPMailer/class.phpmailer.php";
 	$mail = new PHPMailer();
 	$mail->AddAddress("enorswo@gmail.com", "Evan");
-	$mail->AddAddress("MUSEUMFORM@gmail.com", "ETC");
+	//$mail->AddAddress("MUSEUMFORM@gmail.com", "ETC");
 	$mail->Subject = "New Museum Registration";
 	$mail->WordWrap = 120;
 	$mail->IsHTML(true);
@@ -47,7 +46,6 @@ $count=$result->num_rows;*/
 	$message .= "<br>";
 	$message .= $addressStreet1."<br>";
 	$message .= $addressCity.", ".$addressState." ".$addressZIP."<br>";
-	$message .= $addressCountry."<br>";
 	$message .= "<br>";
 	$message .= $phoneNumber."<br>";
 	$message .= $email."<br>";
