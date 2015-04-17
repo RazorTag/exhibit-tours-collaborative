@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-require 'database.php';
+//require 'database.php';
 
 $contactName = mysqli_real_escape_string($db, $_POST['contact-name']);
 $position = mysqli_real_escape_string($db, $_POST['position']);
@@ -27,8 +27,8 @@ $count=$result->num_rows;*/
     echo "<script type=\"text/javascript\"> alert(\"A museum with that name already exists.\"); </script>";
 }*/
 //else {
-	$sql = "INSERT INTO Organization (contactName, position, organizationName, organizationType, phoneNumber, faxNumber, email, addressStreet1, addressStreet2, addressCity, addressState, addressZIP, addressCountry, website, interest, interestNotes) VALUES('$contactName', '$position', '$organizationName', '$organizationType', '$phoneNumber', '$faxNumber', '$email', '$addressStreet1', '$addressStreet2', '$addressCity', '$addressState', '$addressZIP', '$addressCountry', '$website', '$interest', '$interestNotes')";
-	$db->query($sql);
+	/*$sql = "INSERT INTO Organization (contactName, position, organizationName, organizationType, phoneNumber, faxNumber, email, addressStreet1, addressStreet2, addressCity, addressState, addressZIP, addressCountry, website, interest, interestNotes) VALUES('$contactName', '$position', '$organizationName', '$organizationType', '$phoneNumber', '$faxNumber', '$email', '$addressStreet1', '$addressStreet2', '$addressCity', '$addressState', '$addressZIP', '$addressCountry', '$website', '$interest', '$interestNotes')";
+	$db->query($sql);*/
 
 
 	require "PHPMailer/class.phpmailer.php";
