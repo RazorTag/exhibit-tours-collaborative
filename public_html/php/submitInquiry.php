@@ -1,31 +1,36 @@
 <?php
 session_start();
 
-require 'database.php';
+//require 'database.php';
 
-$contactName = $_POST[''];
-$email = $_POST[''];
-$message = $_POST[''];
+$firstName = $_POST['first-name'];
+$lastName = $_POST['last-name'];
+$email = $_POST['email'];
+$inquiry = $_POST['message'];
 
-$sql = "SELECT * FROM Inquiry WHERE contactName='$contactName'";
-$result = $db->query($sql);
-$count=$result->num_rows;
+/*$sql = "INSERT INTO Inquiry (firstName, lastName, email, message) VALUES('$firstName', '$lastName', '$email', '$message')";
+$db->query($sql);*/
 
-if($count > 0) {
-	$_SESSION['defaultCustomer'] = $customerName;
-	echo "<META HTTP-EQUIV=REFRESH CONTENT='0; URL=../customers.html'>";
-    echo "<script type=\"text/javascript\"> alert(\"A museum with that name already exists.\"); </script>";
-}
+require "PHPMailer/class.phpmailer.php";
+	$mail = new PHPMailer();
+	$mail->AddAddress("enorswo@gmail.com", "Evan");
+	$mail->Subject = "Inquiry from ".$firstName.$lastName;
+	$mail->WordWrap = 120;
+	$mail->IsHTML(true);
+	$message = "";
 
-else {
-	$sql = "INSERT INTO Inquiry (contactName, email, message) VALUES('$contactName', '$email', '$message')";
-	$db->query($sql);
+	$message .= $firstName." ".$lastName."<br>";
+	$message .= $email."<br><br>";
+	$message .= $inquiry;
 
-	$subject = "New Inquiry";
-	mail('museum@exhibittours.org', $subject, "", )
-	
-	echo "<META HTTP-EQUIV=REFRESH CONTENT='0; URL=../thank-you.html'>";
-}
+	$mail->Body = $message;
+	if(!$mail->Send()) {
+	   echo "Message could not be sent. <p>";
+	   echo "Mailer Error: " . $mail->ErrorInfo;
+	   exit;
+	}
+
+echo "<META HTTP-EQUIV=REFRESH CONTENT='0; URL=../thank-you.html'>";
 
 exit();
 ?>

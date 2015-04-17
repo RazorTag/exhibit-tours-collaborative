@@ -49,10 +49,11 @@ $count=$result->num_rows;*/
 	$mail = new PHPMailer();
 	$mail->AddAddress("enorswo@gmail.com", "Evan");
 	//$mail->AddAddress("MUSEUMFORM@gmail.com", "ETC");
-	$mail->Subject = "New Museum Registration";
+	$mail->Subject = "New ".$organizationType." Registration: ".$organizationName;
 	$mail->WordWrap = 120;
 	$mail->IsHTML(true);
 
+	$message = "";
 	//$message .= "<font size=\"3em\"><b></b></font>";
 	$message .= $contactName."<br>";
 	$message .= $position."<br>";
@@ -63,7 +64,7 @@ $count=$result->num_rows;*/
 	$message .= "<br>";
 	$message .= $phoneNumber."<br>";
 	$message .= $email."<br>";
-	$message .= "<a size=\"2em\" href=\"http://www.drudgereport.com/\"><b>Image Gallery</b></a><br><br>";
+	$message .= "<a size=\"2em\" href=\"".$website."\"><b>Image Gallery</b></a><br><br>";
 	$message .= "<br>";
 	$message .= "I am interested in: ".$interestNotes;
 
