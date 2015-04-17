@@ -2,9 +2,7 @@ doteasy hosts
 
 all emails use 1234bullshit9876
 
-main screen uses mrperfekt and a5^hG3)mQl
-
-cPanel uses mrperfekt and a5^hG3)mQl
+main screen uses mrperfekt and bullshit9876
 
 if you need to access the web template thingie yo may need to try
 
