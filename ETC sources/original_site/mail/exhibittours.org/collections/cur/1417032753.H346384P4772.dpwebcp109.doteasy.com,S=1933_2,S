@@ -1,0 +1,43 @@
+Return-path: <robertj.heller@gmail.com>
+Envelope-to: collections@exhibittours.org
+Delivery-date: Wed, 26 Nov 2014 12:12:33 -0800
+Received: from mail-la0-f44.google.com ([209.85.215.44]:47490)
+	by dpwebcp109.doteasy.com with esmtps (TLSv1:RC4-SHA:128)
+	(Exim 4.82)
+	(envelope-from <robertj.heller@gmail.com>)
+	id 1Xtiwy-0001Et-Sk; Wed, 26 Nov 2014 12:12:33 -0800
+Received: by mail-la0-f44.google.com with SMTP id ge10so3113829lab.17
+        for <multiple recipients>; Wed, 26 Nov 2014 12:12:31 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=ru2gK/hcYIkgiRRtBo2F2bjFF9roTPQ/7nWKk8VsTmI=;
+        b=Bqs3oMQ3NgiWMX33pO8Xg69WYlr8k2Mty/0decWih/4vvYzKEYiooNzw9fhhP8IWPb
+         QE5a6QNvn3ofXY5Lpgw/c98M+ZM8mxelyDLFx9h4haxF/UHJLZf5L5JS6cUc3s9APyPr
+         K7ZkdoHEclmCClNYOPzv9b1h5/k+WuFx6BP57o8E+WfXNi+mCWGhfqzLJPhnSP52LVqM
+         jiPRIAXiDmaJGbLR/FV6hD135qewAUwpMKAoOp9iiVNp+gyTLboOh7jfmO7Mi+TFbpAw
+         e86K6MO51cvPT/KvIFOXZ/BEXebb8eZ4CQMZeZH+WqZGAFoWKP2T/S67s+zw2NlR3QLK
+         X0JQ==
+MIME-Version: 1.0
+X-Received: by 10.112.130.132 with SMTP id oe4mr35675137lbb.82.1417032750851;
+ Wed, 26 Nov 2014 12:12:30 -0800 (PST)
+Received: by 10.112.12.133 with HTTP; Wed, 26 Nov 2014 12:12:30 -0800 (PST)
+Date: Wed, 26 Nov 2014 15:12:30 -0500
+Message-ID: <CA+fBd2Q46yY4zqNerMSOzryymxJn76hsB54D3nnLLPGdP4=oTA@mail.gmail.com>
+Subject: testing
+From: "Robert J. Heller" <robertj.heller@gmail.com>
+To: museum@exhibittours.org, collections@exhibittours.org, 
+	donors@exhibittours.org, info@exhibittours.org
+Content-Type: multipart/alternative; boundary=047d7b3a84c0bfee880508c8a564
+
+--047d7b3a84c0bfee880508c8a564
+Content-Type: text/plain; charset=UTF-8
+
+310 pm 25 nov
+
+--047d7b3a84c0bfee880508c8a564
+Content-Type: text/html; charset=UTF-8
+
+<div dir="ltr">310 pm 25 nov</div>
+
+--047d7b3a84c0bfee880508c8a564--

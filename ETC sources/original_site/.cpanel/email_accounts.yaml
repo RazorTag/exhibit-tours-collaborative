@@ -1,0 +1,23 @@
+--- 
+__version: '2.1'
+exhibittours.org: 
+  account_count: 4
+  accounts: 
+    collections: 
+      disk_mtime: '1417031991'
+      diskquota: 10485760
+      diskused: 0
+    donors: 
+      disk_mtime: '1417032027'
+      diskquota: 10485760
+      diskused: 0
+    info: 
+      disk_mtime: '1417032137'
+      diskquota: 10485760
+      diskused: 0
+    museum: 
+      disk_mtime: '1417031949'
+      diskquota: 10485760
+      diskused: 0
+  passwd_mtime: '1417032137'
+  quota_mtime: '1417032137'

@@ -1,0 +1,9 @@
+website: http://plasterconceptsdatabase.uphero.com/
+name: Evan Norsworthy
+email: enorswo@gmail.com
+password: GbqPRxTY1MwbrJFK
+domain username: a3970719
+domain password: bullshit123
+FTP host: 31.170.160.110
+FTP username: a4459657
+FTP password: bullshit123
